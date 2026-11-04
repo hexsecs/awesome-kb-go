@@ -1,0 +1,72 @@
+---
+type: index
+title: "Meetups"
+---
+
+# Meetups
+
+- [Basel Go Meetup](basel-go-meetup.md) — Basel Go Meetup, listed under Meetups in avelino/awesome-go.
+- [Belfast Gophers](belfast-gophers.md) — Belfast Gophers, listed under Meetups in avelino/awesome-go.
+- [Belgrade Golang Meetup](belgrade-golang-meetup.md) — Belgrade Golang Meetup, listed under Meetups in avelino/awesome-go.
+- [Berlin Golang](berlin-golang.md) — Berlin Golang, listed under Meetups in avelino/awesome-go.
+- [Brisbane Gophers](brisbane-gophers.md) — Brisbane Gophers, listed under Meetups in avelino/awesome-go.
+- [Bärner Go Meetup - Berne, Switzerland](b-rner-go-meetup-berne-switzerland.md) — Bärner Go Meetup - Berne, Switzerland, listed under Meetups in avelino/awesome-go.
+- [Go Ireland - Dublin](go-ireland-dublin.md) — Go Ireland - Dublin, listed under Meetups in avelino/awesome-go.
+- [Go Language NYC](go-language-nyc.md) — Go Language NYC, listed under Meetups in avelino/awesome-go.
+- [Go London User Group](go-london-user-group.md) — Go London User Group, listed under Meetups in avelino/awesome-go.
+- [Go Remote Meetup](go-remote-meetup.md) — Go Remote Meetup, listed under Meetups in avelino/awesome-go.
+- [Go Toronto](go-toronto.md) — Go Toronto, listed under Meetups in avelino/awesome-go.
+- [Go User Group Atlanta](go-user-group-atlanta.md) — Go User Group Atlanta, listed under Meetups in avelino/awesome-go.
+- [GoBandung](gobandung.md) — GoBandung, listed under Meetups in avelino/awesome-go.
+- [GoBridge, San Francisco, CA](gobridge-san-francisco-ca.md) — GoBridge, San Francisco, CA, listed under Meetups in avelino/awesome-go.
+- [GoCracow - Krakow, Poland](gocracow-krakow-poland.md) — GoCracow - Krakow, Poland, listed under Meetups in avelino/awesome-go.
+- [GoJakarta](gojakarta.md) — GoJakarta, listed under Meetups in avelino/awesome-go.
+- [Golang Amsterdam](golang-amsterdam.md) — Golang Amsterdam, listed under Meetups in avelino/awesome-go.
+- [Golang Argentina](golang-argentina.md) — Golang Argentina, listed under Meetups in avelino/awesome-go.
+- [Golang Athens](golang-athens.md) — Golang Athens, listed under Meetups in avelino/awesome-go.
+- [Golang Baltimore, MD](golang-baltimore-md.md) — Golang Baltimore, MD, listed under Meetups in avelino/awesome-go.
+- [Golang Bangalore](golang-bangalore.md) — Golang Bangalore, listed under Meetups in avelino/awesome-go.
+- [Golang Belo Horizonte - Brazil](golang-belo-horizonte-brazil.md) — Golang Belo Horizonte - Brazil, listed under Meetups in avelino/awesome-go.
+- [Golang Boston](golang-boston.md) — Golang Boston, listed under Meetups in avelino/awesome-go.
+- [Golang Bulgaria](golang-bulgaria.md) — Golang Bulgaria, listed under Meetups in avelino/awesome-go.
+- [Golang Cardiff, UK](golang-cardiff-uk.md) — Golang Cardiff, UK, listed under Meetups in avelino/awesome-go.
+- [Golang Copenhagen](golang-copenhagen.md) — Golang Copenhagen, listed under Meetups in avelino/awesome-go.
+- [Golang Curitiba - Brazil](golang-curitiba-brazil.md) — Golang Curitiba - Brazil, listed under Meetups in avelino/awesome-go.
+- [Golang DC, Arlington, VA](golang-dc-arlington-va.md) — Golang DC, Arlington, VA, listed under Meetups in avelino/awesome-go.
+- [Golang Dorset, UK](golang-dorset-uk.md) — Golang Dorset, UK, listed under Meetups in avelino/awesome-go.
+- [Golang Estonia](golang-estonia.md) — Golang Estonia, listed under Meetups in avelino/awesome-go.
+- [Golang Gurgaon, India](golang-gurgaon-india.md) — Golang Gurgaon, India, listed under Meetups in avelino/awesome-go.
+- [Golang Hamburg - Germany](golang-hamburg-germany.md) — Golang Hamburg - Germany, listed under Meetups in avelino/awesome-go.
+- [Golang Israel](golang-israel.md) — Golang Israel, listed under Meetups in avelino/awesome-go.
+- [Golang Kathmandu](golang-kathmandu.md) — Golang Kathmandu, listed under Meetups in avelino/awesome-go.
+- [Golang Lima - Peru](golang-lima-peru.md) — Golang Lima - Peru, listed under Meetups in avelino/awesome-go.
+- [Golang Lyon](golang-lyon.md) — Golang Lyon, listed under Meetups in avelino/awesome-go.
+- [Golang Marseille](golang-marseille.md) — Golang Marseille, listed under Meetups in avelino/awesome-go.
+- [Golang Melbourne](golang-melbourne.md) — Golang Melbourne, listed under Meetups in avelino/awesome-go.
+- [Golang Milano](golang-milano.md) — Golang Milano, listed under Meetups in avelino/awesome-go.
+- [Golang North East](golang-north-east.md) — Golang North East, listed under Meetups in avelino/awesome-go.
+- [Golang Paris](golang-paris.md) — Golang Paris, listed under Meetups in avelino/awesome-go.
+- [Golang Poland](golang-poland.md) — Golang Poland, listed under Meetups in avelino/awesome-go.
+- [Golang Pune](golang-pune.md) — Golang Pune, listed under Meetups in avelino/awesome-go.
+- [Golang Roma](golang-roma.md) — Golang Roma, listed under Meetups in avelino/awesome-go.
+- [Golang Rotterdam](golang-rotterdam.md) — Golang Rotterdam, listed under Meetups in avelino/awesome-go.
+- [Golang Singapore](golang-singapore.md) — Golang Singapore, listed under Meetups in avelino/awesome-go.
+- [Golang Stockholm](golang-stockholm.md) — Golang Stockholm, listed under Meetups in avelino/awesome-go.
+- [Golang Sydney, AU](golang-sydney-au.md) — Golang Sydney, AU, listed under Meetups in avelino/awesome-go.
+- [Golang São Paulo - Brazil](golang-s-o-paulo-brazil.md) — Golang São Paulo - Brazil, listed under Meetups in avelino/awesome-go.
+- [Golang Taipei](golang-taipei.md) — Golang Taipei, listed under Meetups in avelino/awesome-go.
+- [Golang Thessaloniki](golang-thessaloniki.md) — Golang Thessaloniki, listed under Meetups in avelino/awesome-go.
+- [Golang Torino](golang-torino.md) — Golang Torino, listed under Meetups in avelino/awesome-go.
+- [Golang Turkey](golang-turkey.md) — Golang Turkey, listed under Meetups in avelino/awesome-go.
+- [Golang Vancouver, BC](golang-vancouver-bc.md) — Golang Vancouver, BC, listed under Meetups in avelino/awesome-go.
+- [Golang Vienna, Austria](golang-vienna-austria.md) — Golang Vienna, Austria, listed under Meetups in avelino/awesome-go.
+- [Golang Москва](golang.md) — Golang Москва, listed under Meetups in avelino/awesome-go.
+- [GoSF - San Francisco, CA](gosf-san-francisco-ca.md) — GoSF - San Francisco, CA, listed under Meetups in avelino/awesome-go.
+- [Istanbul Golang](istanbul-golang.md) — Istanbul Golang, listed under Meetups in avelino/awesome-go.
+- [Lagos Gophers](lagos-gophers.md) — Lagos Gophers, listed under Meetups in avelino/awesome-go.
+- [Nairobi Gophers](nairobi-gophers.md) — Nairobi Gophers, listed under Meetups in avelino/awesome-go.
+- [Seattle Go Programmers](seattle-go-programmers.md) — Seattle Go Programmers, listed under Meetups in avelino/awesome-go.
+- [Ukrainian Golang User Groups](ukrainian-golang-user-groups.md) — Ukrainian Golang User Groups, listed under Meetups in avelino/awesome-go.
+- [Utah Go User Group](utah-go-user-group.md) — Utah Go User Group, listed under Meetups in avelino/awesome-go.
+- [Women Who Go - San Francisco, CA](women-who-go-san-francisco-ca.md) — Women Who Go - San Francisco, CA, listed under Meetups in avelino/awesome-go.
+- [Zürich Gophers - Zurich, Switzerland](z-rich-gophers-zurich-switzerland.md) — Zürich Gophers - Zurich, Switzerland, listed under Meetups in avelino/awesome-go.

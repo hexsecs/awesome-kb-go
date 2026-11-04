@@ -1,0 +1,53 @@
+---
+type: index
+title: "Command Line / Advanced Console UIs"
+---
+
+# Command Line / Advanced Console UIs
+
+- [asciigraph](asciigraph.md) — Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
+- [aurora](aurora.md) — ANSI terminal colors that support fmt.Printf/Sprintf.
+- [box-cli-maker](box-cli-maker.md) — Render highly customizable boxes in the terminal.
+- [bubble-table](bubble-table.md) — An interactive table component for bubbletea.
+- [bubbles](bubbles.md) — TUI components for bubbletea.
+- [bubbletea](bubbletea.md) — Go framework to build terminal apps, based on The Elm Architecture.
+- [crab-config-files-templating](crab-config-files-templating.md) — Dynamic configuration file templating tool for kubernetes manifest or general configuration files.
+- [ctc](ctc.md) — The non-invasive cross-platform terminal color library does not need to modify the Print method.
+- [eyez](eyez.md) — eyez is a handy CLI tool that lets you view images directly in your terminal, with support for most terminal emulators.
+- [fx](fx.md) — Terminal JSON viewer & processor.
+- [glamour](glamour.md) — Stylesheet-based markdown rendering for terminal applications.
+- [go-ataman](go-ataman.md) — Go library for rendering ANSI colored text templates in terminals.
+- [go-colorable](go-colorable.md) — Colorable writer for windows.
+- [go-colortext](go-colortext.md) — Go library for color output in terminals.
+- [go-isatty](go-isatty.md) — isatty for golang.
+- [go-palette](go-palette.md) — Go library that provides elegant and convenient style definitions using ANSI colors. Fully compatible & wraps the fmt library for nice terminal layouts.
+- [go-prompt](go-prompt.md) — Library for building a powerful interactive prompt, inspired by python-prompt-toolkit.
+- [go-tui](go-tui.md) — A declarative terminal UI framework with templ-like templates, flexbox layout, and a language server for editor support.
+- [gocui](gocui.md) — Minimalist Go library aimed at creating Console User Interfaces.
+- [gommon/color](gommon-color.md) — Style terminal text.
+- [gookit/color](gookit-color.md) — Terminal color rendering tool library, support 16 colors, 256 colors, RGB color rendering output, compatible with Windows.
+- [goscaf](goscaf.md) — goscaf generates opinionated, production-quality Go project boilerplate via an interactive CLI. Stop copy-pasting skeleton code between projects.
+- [huh](huh.md) — Lightweight library for building interactive forms and prompts in the terminal.
+- [lazyenv](lazyenv.md) — TUI for browsing, comparing, and editing .env files.
+- [lazyteams](lazyteams.md) — Keyboard-driven terminal user interface for Microsoft Teams.
+- [lipgloss](lipgloss.md) — Declaratively define styles for color, format and layout in the terminal.
+- [loom](loom.md) — Signal-based reactive components framework for building TUIs.
+- [marker](marker.md) — Easiest way to match and mark strings for colorful terminal outputs.
+- [mpb](mpb.md) — Multi progress bar for terminal applications.
+- [phoenix](phoenix.md) — High-performance TUI framework with Elm-inspired architecture, perfect Unicode rendering, and zero-allocation event system.
+- [progressbar](progressbar.md) — Basic thread-safe progress bar that works in every OS.
+- [pterm](pterm.md) — A library to beautify console output on every platform with many combinable components.
+- [rummage](rummage.md) — Cross-platform terminal file/folder picker with fuzzy search, multi-select, and a preview pane.
+- [simpletable](simpletable.md) — Simple tables in a terminal with Go.
+- [spinner](spinner.md) — Go package to easily provide a terminal spinner with options.
+- [tabby](tabby.md) — A tiny library for super simple Golang tables.
+- [table](table.md) — Small library for terminal color based tables.
+- [termbox-go](termbox-go.md) — Termbox is a library for creating cross-platform text-based interfaces.
+- [termdash](termdash.md) — Go terminal dashboard based on termbox-go and inspired by termui.
+- [termenv](termenv.md) — Advanced ANSI style & color support for your terminal applications.
+- [termui](termui.md) — Go terminal dashboard based on termbox-go and inspired by blessed-contrib.
+- [uilive](uilive.md) — Library for updating terminal output in real time.
+- [uiprogress](uiprogress.md) — Flexible library to render progress bars in terminal applications.
+- [uitable](uitable.md) — Library to improve readability in terminal apps using tabular data.
+- [vhs](vhs.md) — Your CLI home video recorder - generate terminal GIFs from code for documentation and tutorials.
+- [yacspin](yacspin.md) — Yet Another CLi Spinner package, for working with terminal spinners.

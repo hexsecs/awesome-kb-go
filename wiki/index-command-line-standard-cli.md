@@ -1,0 +1,65 @@
+---
+type: index
+title: "Command Line / Standard CLI"
+---
+
+# Command Line / Standard CLI
+
+- [acmd](acmd.md) — Simple, useful, and opinionated CLI package in Go.
+- [argparse](argparse.md) — Command line argument parser inspired by Python's argparse module.
+- [argv](argv.md) — Go library to split command line string as arguments array using the bash syntax.
+- [boa](boa.md) — Declarative flags, env vars, validation, and config files from struct tags. Built on cobra.
+- [carapace](carapace.md) — Command argument completion generator for spf13/cobra.
+- [carapace-bin](carapace-bin.md) — Multi-shell multi-command argument completer.
+- [carapace-spec](carapace-spec.md) — Define simple completions using a spec file.
+- [climax](climax.md) — Alternative CLI with "human face", in spirit of Go command.
+- [clîr](cl-r.md) — A Simple and Clear CLI library. Dependency free.
+- [cmd](cmd.md) — Extends the standard flag package to support sub commands and more in idiomatic way.
+- [cmdr](cmdr.md) — A POSIX/GNU style, getopt-like command-line UI Go library.
+- [cobra](cobra.md) — Commander for modern Go CLI interactions.
+- [command-chain](command-chain.md) — A go library for configure and run command chains - such as pipelining in unix shells.
+- [commandeer](commandeer.md) — Dev-friendly CLI apps: sets up flags, defaults, and usage based on struct fields and tags.
+- [complete](complete.md) — Write bash completions in Go + Go command bash completion.
+- [console](console.md) — Closed-loop application library for Cobra commands, with oh-my-posh prompts, and more.
+- [Dnote](dnote.md) — A simple command line notebook with multi-device sync.
+- [elvish](elvish.md) — An expressive programming language and a versatile interactive shell.
+- [env](env.md) — Tag-based environment configuration for structs.
+- [flaggy](flaggy.md) — A robust and idiomatic flags package with excellent subcommand support.
+- [flagvar](flagvar.md) — A collection of flag argument types for Go's standard flag package.
+- [flash-flags](flash-flags.md) — Ultra-fast, zero-dependency, POSIX-compliant flag parsing library that can be used as drop-in stdlib replacement with security hardening.
+- [Fling-CLI](fling-cli.md) — Terminal-based peer-to-peer file and message transfer tool over custom reliable UDP.
+- [getopt](getopt.md) — An accurate Go getopt, validated against the GNU libc implementation.
+- [go-arch](go-arch.md) — CLI tool for scaffolding Go applications with Minimalist, Standard, and Hexagonal architecture patterns.
+- [go-arg](go-arg.md) — Struct-based argument parsing in Go.
+- [go-flags](go-flags.md) — go command line option parser.
+- [go-getoptions](go-getoptions.md) — Go option parser inspired by the flexibility of Perl’s GetOpt::Long.
+- [go-readline-ny](go-readline-ny.md) — A customizable line-editing library with Emacs keybindings, Unicode support, completion, and syntax highlighting. Used in NYAGOS shell.
+- [gocmd](gocmd.md) — Go library for building command line applications.
+- [goopt](goopt.md) — A declarative, struct-tag based CLI framework for Go, with a broad feature set such as hierarchical commands/flags, i18n, shell completion, and validation.
+- [GoPOSIX](goposix.md) — A Go-native, single-binary multicall with 77 POSIX tools and >97% BusyBox test compatibility.
+- [gozen](gozen.md) — gozen is a simplified golang MVC framework to generate projects and components with Support of REST, gRPC etc. Higly customizable and easy to add any api…
+- [hashicorp/cli](hashicorp-cli.md) — Go library for implementing command-line interfaces.
+- [hiboot cli](hiboot-cli.md) — cli application framework with auto configuration and dependency injection.
+- [job](job.md) — JOB, make your short-term command as a long-term job.
+- [kingpin](kingpin.md) — Command line and flag parser supporting sub commands (superseded by kong; see below).
+- [liner](liner.md) — Go readline-like library for command-line interfaces.
+- [mcli](mcli.md) — A minimal but very powerful cli library for Go.
+- [memsh](memsh.md) — Virtual bash shell in Go: executes shell commands against an in-memory filesystem (afero), with WASM plugin support and an embeddable HTTP server.
+- [mkideal/cli](mkideal-cli.md) — Feature-rich and easy to use command-line package based on golang struct tags.
+- [mow.cli](mow-cli.md) — Go library for building CLI applications with sophisticated flag and argument parsing and validation.
+- [neuron-cli](neuron-cli.md) — A local-first, Obsidian-compatible terminal knowledge manager.
+- [OpenCLI](opencli.md) — OpenAPI-style specification for CLIs; define your interface in a language-agnostic document to generate documentation and framework boilerplate code.
+- [ops](ops.md) — Unikernel Builder/Orchestrator.
+- [orpheus](orpheus.md) — CLI framework with security hardening, plugin storage system, and production observability features.
+- [pflag](pflag.md) — Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
+- [readline](readline.md) — Shell library with modern and easy to use UI features.
+- [sflags](sflags.md) — Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries.
+- [structcli](structcli.md) — Eliminate Cobra boilerplate: build powerful, feature-rich CLIs declaratively from Go structs.
+- [strumt](strumt.md) — Library to create prompt chain.
+- [subcmd](subcmd.md) — Another approach to parsing and running subcommands. Works alongside the standard flag package.
+- [teris-io/cli](teris-io-cli.md) — Simple and complete API for building command line interfaces in Go.
+- [urfave/cli](urfave-cli.md) — Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli).
+- [version](version.md) — Collects and displays CLI version information in multiple formats along with upgrade notice.
+- [vibecheck](vibecheck.md) — Cross-platform CLI that generates Git commit messages automatically from code changes.
+- [wlog](wlog.md) — Simple logging interface that supports cross-platform color and concurrency.
+- [wmenu](wmenu.md) — Easy to use menu structure for cli applications that prompt users to make choices.

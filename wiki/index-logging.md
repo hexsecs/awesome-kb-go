@@ -1,0 +1,81 @@
+---
+type: index
+title: "Logging"
+---
+
+# Logging
+
+- [caarlos0/log](caarlos0-log.md) — Colorful CLI logger.
+- [distillog](distillog.md) — distilled levelled logging (think of it as stdlib + log levels).
+- [glg](glg.md) — glg is simple and fast leveled logging library for Go.
+- [glo](glo.md) — PHP Monolog inspired logging facility with identical severity levels.
+- [glog](glog.md) — Leveled execution logs for Go.
+- [go-cronowriter](go-cronowriter.md) — Simple writer that rotate log files automatically based on current date and time, like cronolog.
+- [go-log](go-log.md) — A logging library with stack traces, object dumping and optional timestamps.
+- [go-log](go-log-2.md) — Simple and configurable Logging in Go, with level, formatters and writers.
+- [go-log](go-log-3.md) — Log lib supports level and multi handlers.
+- [go-log](go-log-4.md) — Log4j implementation in Go.
+- [go-log4g](go-log4g.md) — Log4g provides Log4j-style configuration and pattern layouts for Go's standard log/slog logging facade.
+- [go-logger](go-logger.md) — Simple logger of Go Programs, with level handlers.
+- [GoLogX](gologx.md) — Append-only, hash-chained, optionally Ed25519-signed slog handler with offline verification of tampering.
+- [gone/log](gone-log.md) — Fast, extendable, full-featured, std-lib source compatible log library.
+- [gslog](gslog.md) — Google Cloud Logging handler for log/slog, with OpenTelemetry trace and baggage, and Kubernetes podinfo labels.
+- [httpretty](httpretty.md) — Pretty-prints your regular HTTP requests on your terminal for debugging (similar to http.DumpRequest).
+- [journald](journald.md) — Go implementation of systemd Journal's native API for logging.
+- [kemba](kemba.md) — A tiny debug logging tool inspired by debug, great for CLI tools and applications.
+- [lazyjournal](lazyjournal.md) — A TUI for reading and filtering logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods.
+- [log](log.md) — An O(1) logging system that allows you to connect one log to multiple writers (e.g. stdout, a file and a TCP connection).
+- [log](log-2.md) — Structured logging package for Go.
+- [log](log-3.md) — Simple, configurable and scalable Structured Logging for Go.
+- [log](log-4.md) — Structured log interface for Go cleanly separates logging facade from its implementation.
+- [log](log-5.md) — Simple leveled logging wrapper around standard log package.
+- [log](log-6.md) — A simple logging framework out of the box.
+- [log15](log15.md) — Simple, powerful logging for Go.
+- [logdump](logdump.md) — Package for multi-level logging.
+- [logex](logex.md) — Golang log lib, supports tracking and level, wrap by standard log lib.
+- [logger](logger.md) — Minimalistic logging library for Go.
+- [logo](logo.md) — Golang logger to different configurable writers.
+- [logrus](logrus.md) — Structured logger for Go.
+- [logrusiowriter](logrusiowriter.md) — io.Writer implementation using logrus logger.
+- [logrusly](logrusly.md) — logrus plug-in to send errors to a Loggly.
+- [logutils](logutils.md) — Utilities for slightly better logging in Go (Golang) extending the standard logger.
+- [logxi](logxi.md) — 12-factor app logger that is fast and makes you happy.
+- [lumberjack](lumberjack.md) — Simple rolling logger, implements io.WriteCloser.
+- [mlog](mlog.md) — Simple logging module for go, with 5 levels, an optional rotating logfile feature and stdout/stderr output.
+- [noodlog](noodlog.md) — Parametrized JSON logging library which lets you obfuscate sensitive data and marshal any kind of content. No more printed pointers instead of values, nor…
+- [onelog](onelog.md) — Onelog is a dead simple but very efficient JSON logger. It is the fastest JSON logger out there in all scenarios. Also, it is one of the logger with the…
+- [ozzo-log](ozzo-log.md) — High performance logging supporting log severity, categorization, and filtering. Can send filtered log messages to various targets (e.g. console, network…
+- [phuslu/log](phuslu-log.md) — High performance structured logging.
+- [pp](pp.md) — Colored pretty printer for Go language.
+- [rollingwriter](rollingwriter.md) — RollingWriter is an auto-rotate io.Writer implementation with multi policies to provide log file rotation.
+- [seelog](seelog.md) — Logging functionality with flexible dispatching, filtering, and formatting.
+- [sentry-go](sentry-go.md) — Sentry SDK for Go. Helps monitor and track errors with real-time alerts and performance monitoring.
+- [slf4g](slf4g.md) — Simple Logging Facade for Golang: Simple structured logging; but powerful, extendable and customizable, with huge amount of learnings from decades of past…
+- [slog](slog.md) — Lightweight, configurable, extensible logger for Go.
+- [slog-configurator](slog-configurator.md) — Configures the standard library log/slog logger from environment variables: level, format, source location, and stdout/stderr split.
+- [slog-datadog](slog-datadog.md) — A slog handler for Datadog.
+- [slog-formatter](slog-formatter.md) — Common formatters for slog and helpers to build your own.
+- [slog-logrus](slog-logrus.md) — A slog handler for Logrus.
+- [slog-loki](slog-loki.md) — A slog handler for Grafana Loki.
+- [slog-multi](slog-multi.md) — Chain of slog.Handler (pipeline, fanout...).
+- [slog-sentry](slog-sentry.md) — A slog handler for Sentry.
+- [slog-slack](slog-slack.md) — A slog handler for Slack.
+- [slog-zap](slog-zap.md) — A slog handler for Zap.
+- [slog-zerolog](slog-zerolog.md) — A slog handler for Zerolog.
+- [slogor](slogor.md) — A colorful slog handler.
+- [spew](spew.md) — Implements a deep pretty printer for Go data structures to aid in debugging.
+- [sqldb-logger](sqldb-logger.md) — A logger for Go SQL database driver without modify existing \sql.DB stdlib usage.
+- [stdlog](stdlog.md) — Stdlog is an object-oriented library providing leveled logging. It is very useful for cron jobs.
+- [structy/log](structy-log.md) — A simple to use log system, minimalist but with features for debugging and differentiation of messages.
+- [tail](tail.md) — Go package striving to emulate the features of the BSD tail program.
+- [timberjack](timberjack.md) — Rolling logger with size-based, time-based, and scheduled clock-based rotation, supporting compression and cleanup.
+- [tint](tint.md) — A slog.Handler that writes tinted logs.
+- [xlog](xlog.md) — Plugin architecture and flexible log system for Go, with level ctrl, multiple log target and custom log format.
+- [xlog](xlog-2.md) — Structured logger for net/context aware HTTP handlers with flexible dispatching.
+- [xylog](xylog.md) — Leveled and structured logging, dynamic fields, high performance, zone management, simple configuration, and readable syntax.
+- [yell](yell.md) — Yet another minimalistic logging library.
+- [zap](zap.md) — Fast, structured, leveled logging in Go.
+- [zax](zax.md) — Integrate Context with Zap logger, which leads to more flexibility in Go logging.
+- [zerolog](zerolog.md) — Zero-allocation JSON logger.
+- [zkits-logger](zkits-logger.md) — A powerful zero-dependency JSON logger.
+- [zl](zl.md) — High Developer Experience, zap based logger. It offers rich functionality but is easy to configure.

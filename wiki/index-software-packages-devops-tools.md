@@ -1,0 +1,118 @@
+---
+type: index
+title: "Software Packages / DevOps Tools"
+---
+
+# Software Packages / DevOps Tools
+
+- [abbreviate](abbreviate.md) — abbreviate is a tool turning long strings in to shorter ones with configurable separators, for example to embed branch names in to deployment stack IDs.
+- [alaz](alaz.md) — Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.
+- [aptly](aptly.md) — aptly is a Debian repository management tool.
+- [aurora](aurora-2.md) — Cross-platform web-based Beanstalkd queue server console.
+- [aws-doctor](aws-doctor.md) — Diagnose AWS costs, detect idle resources, and optimize cloud spending directly from your terminal 🩺 ☁️.
+- [awsenv](awsenv.md) — Small binary that loads Amazon (AWS) environment variables for a profile.
+- [Balerter](balerter.md) — A self-hosted script-based alerting manager.
+- [Blast](blast.md) — A simple tool for API load testing and batch jobs.
+- [bombardier](bombardier.md) — Fast cross-platform HTTP benchmarking tool.
+- [cassowary](cassowary.md) — Modern cross-platform HTTP load-testing tool written in Go.
+- [chaosmonkey](chaosmonkey.md) — A resiliency tool that helps applications tolerate random instance failures.
+- [colima](colima.md) — Container runtimes on macOS (and Linux) with minimal setup.
+- [Ddosify](ddosify.md) — High-performance load testing tool, written in Golang.
+- [decompose](decompose.md) — tool to generate and process Docker containers connections graphs.
+- [DepCharge](depcharge.md) — Helps orchestrating the execution of commands across the many dependencies in larger projects.
+- [dish](dish.md) — A lightweight, remotely configurable monitoring service.
+- [Docker](docker.md) — Open platform for distributed applications for developers and sysadmins.
+- [docker-go-mingw](docker-go-mingw.md) — Docker image for building Go binaries for Windows with MinGW toolchain.
+- [docker-volume-backup](docker-volume-backup.md) — Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage.
+- [Dockerfile-Generator](dockerfile-generator.md) — A go library and an executable that produces valid Dockerfiles using various input channels.
+- [docklite](docklite.md) — Lightweight Portainer alternative for Docker container management with real-time SSE metrics.
+- [dogo](dogo.md) — Monitoring changes in the source file and automatically compile and run (restart).
+- [drone-jenkins](drone-jenkins.md) — Trigger downstream Jenkins jobs using a binary, docker or Drone CI.
+- [drone-scp](drone-scp.md) — Copy files and artifacts via SSH using a binary, docker or Drone CI.
+- [Dropship](dropship.md) — Tool for deploying code via cdn.
+- [easyssh-proxy](easyssh-proxy.md) — Golang package for easy remote execution through SSH and SCP downloading via ProxyCommand.
+- [fac](fac.md) — Command-line user interface to fix git merge conflicts.
+- [Flannel](flannel.md) — Flannel is a network fabric for containers, designed for Kubernetes.
+- [Fleet device management](fleet-device-management.md) — Lightweight, programmable telemetry for servers and workstations.
+- [gaia](gaia.md) — Build powerful pipelines in any programming language.
+- [ghorg](ghorg.md) — Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Gitea, and Bitbucket.
+- [Gitea](gitea.md) — Fork of Gogs, entirely community driven.
+- [gitea-github-migrator](gitea-github-migrator.md) — Migrate all your GitHub repositories, issues, milestones and labels to your Gitea instance.
+- [gitl](gitl.md) — AI review of git commit ranges with risk scoring (low/medium/high), changelog generation, and multi-repo activity digest. GitHub Action included.
+- [go-furnace](go-furnace.md) — Hosting solution written in Go. Deploy your Application with ease on AWS, GCP or DigitalOcean.
+- [go-rocket-update](go-rocket-update.md) — A simple way to make self updating Go applications - Supports Github and Gitlab.
+- [go-selfupdate](go-selfupdate.md) — Enable your Go applications to self update.
+- [gobrew](gobrew.md) — gobrew lets you easily switch between multiple versions of go.
+- [gobrew](gobrew-2.md) — Go version manager. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
+- [godbg](godbg-2.md) — Web-based gdb front-end application.
+- [Gogs](gogs.md) — A Self Hosted Git Service in the Go Programming Language.
+- [goma-gateway](goma-gateway.md) — A Lightweight API Gateway and Reverse Proxy with declarative config, robust middleware, and support for REST, GraphQL, TCP, UDP, and gRPC.
+- [gonative](gonative.md) — Tool which creates a build of Go that can cross compile to all platforms while still using the Cgo-enabled versions of the stdlib packages.
+- [govvv](govvv.md) — “go build” wrapper to easily add version information into Go binaries.
+- [grapes](grapes.md) — Lightweight tool designed to distribute commands over ssh with ease.
+- [GVM](gvm.md) — GVM provides an interface to manage Go versions.
+- [Hey](hey.md) — Hey is a tiny program that sends some load to a web application.
+- [httpref](httpref.md) — httpref is a handy CLI reference for HTTP methods, status codes, headers, and TCP and UDP ports.
+- [jcli](jcli.md) — Jenkins CLI allows you manage your Jenkins as an easy way.
+- [k0s](k0s.md) — Zero Friction Kubernetes distribution.
+- [k3d](k3d.md) — Little helper to run CNCF's k3s in Docker.
+- [k3s](k3s.md) — Lightweight Kubernetes.
+- [k6](k6.md) — A modern load testing tool, using Go and JavaScript.
+- [k9s](k9s.md) — Kubernetes CLI to manage your clusters in style.
+- [kala](kala.md) — Simplistic, modern, and performant job scheduler.
+- [kcli](kcli.md) — Command line tool for inspecting kafka topics/partitions/messages.
+- [kind](kind.md) — Kubernetes IN Docker - local clusters for testing Kubernetes.
+- [ko](ko.md) — Command line tool for building and deploying Go applications on Kubernetes
+- [kool](kool.md) — Command line tool for managing Docker environments as an easy way.
+- [kubeblocks](kubeblocks.md) — KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s.
+- [kubefwd](kubefwd.md) — Bulk Kubernetes port forwarding with unique IPs per service for local development.
+- [kubernetes](kubernetes.md) — Container Cluster Manager from Google.
+- [kubeshark](kubeshark.md) — API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes.
+- [KubeVela](kubevela.md) — Cloud native application delivery.
+- [KubeVPN](kubevpn.md) — KubeVPN offers a Cloud-Native Dev Environment that seamlessly connects to your Kubernetes cluster network.
+- [KusionStack](kusionstack.md) — A unified programmable configuration techstack to deliver modern app in 'platform as code' and 'infra as code' approach.
+- [kwatch](kwatch.md) — Monitor & detect crashes in your Kubernetes(K8s) cluster instantly.
+- [lima](lima.md) — Linux virtual machines with a focus on running containers and local VM workloads.
+- [lstags](lstags.md) — Tool and API to sync Docker images across different registries.
+- [lwc](lwc.md) — A live-updating version of the UNIX wc command.
+- [manssh](manssh.md) — manssh is a command line tool for managing your ssh alias config easily.
+- [Mantil](mantil.md) — Go specific framework for building serverless applications on AWS that enables you to focus on pure Go code while Mantil takes care of the infrastructure.
+- [metricsd](metricsd.md) — Lightweight metrics collector with plugin system, shipping to Prometheus, Splunk HEC, and HTTP JSON endpoints.
+- [minikube](minikube.md) — Run Kubernetes locally.
+- [Moby](moby.md) — Collaborative project for the container ecosystem to assemble container-based systems.
+- [Mora](mora.md) — REST server for accessing MongoDB documents and meta data.
+- [mq-studio](mq-studio.md) — Cross-platform desktop client for managing and monitoring RocketMQ, RabbitMQ, Kafka, Pulsar, Redis Stream, MQTT, NATS, and ActiveMQ clusters.
+- [ostent](ostent.md) — collects and displays system metrics and optionally relays to Graphite and/or InfluxDB.
+- [Packer](packer.md) — Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [Pewpew](pewpew.md) — Flexible HTTP command line stress tester.
+- [pingtower](pingtower.md) — Lightweight self-hosted uptime monitor for websites and APIs.
+- [PipeCD](pipecd.md) — A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications.
+- [podinfo](podinfo.md) — Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes. Podinfo is used by CNCF projects like…
+- [podman-tui](podman-tui.md) — Terminal UI for Podman management.
+- [Pomerium](pomerium.md) — Pomerium is an identity-aware access proxy.
+- [Rodent](rodent.md) — Rodent helps you manage Go versions, projects and track dependencies.
+- [s3-proxy](s3-proxy.md) — S3 Proxy with GET, PUT and DELETE methods and authentication (OpenID Connect and Basic Auth).
+- [s3gof3r](s3gof3r.md) — Small utility/library optimized for high speed transfer of large objects into and out of Amazon S3.
+- [s5cmd](s5cmd.md) — Blazing fast S3 and local filesystem execution tool.
+- [Scaleway-cli](scaleway-cli.md) — Manage BareMetal Servers from Command Line (as easily as with Docker).
+- [script](script.md) — Making it easy to write shell-like scripts in Go for DevOps and system administration tasks.
+- [sg](sg-2.md) — Benchmarks a set of HTTP endpoints (like ab), with possibility to use the response code and data between each call for specific server stress based on its…
+- [sigma](sigma.md) — OCI-native container image registry, support OCI-native artifact, scan artifact, image build etc.
+- [skm](skm.md) — SKM is a simple and powerful SSH Keys Manager, it helps you to manage your multiple SSH keys easily!
+- [sortie](sortie.md) — Turn tracker tickets into autonomous coding agent sessions.
+- [Spinifex](spinifex.md) — Self-hosted, AWS-compatible cloud platform providing EC2, EBS, S3, VPC and IAM APIs for bare-metal, edge and on-premises infrastructure.
+- [StatusOK](statusok.md) — Monitor your Website and REST APIs.Get Notified through Slack, E-mail when your server is down or response time is more than expected.
+- [tau](tau.md) — Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and…
+- [terraform-provider-openapi](terraform-provider-openapi.md) — Terraform provider plugin that dynamically configures itself at runtime based on an OpenAPI document (formerly known as swagger file) containing the…
+- [tf-profile](tf-profile.md) — Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
+- [tickstem/uptime](tickstem-uptime.md) — Go client for HTTP uptime monitoring with SSL expiry alerts and configurable response assertions.
+- [tlm](tlm.md) — Local cli copilot, powered by CodeLLaMa
+- [traefik](traefik.md) — Reverse proxy and load balancer with support for multiple backends.
+- [trubka](trubka.md) — A CLI tool to manage and troubleshoot Apache Kafka clusters with the ability of generically publishing/consuming protocol buffer and plain text events…
+- [Updatecli](updatecli.md) — A universal declarative update policy engine.
+- [uTask](utask.md) — Automation engine that models and executes business processes declared in yaml.
+- [Vegeta](vegeta.md) — HTTP load testing tool and library. It's over 9000!
+- [wait-for](wait-for.md) — Wait for something to happen (from the command line) before continuing. Easy orchestration of Docker services and other things.
+- [Wide](wide.md) — Web-based IDE for Teams using Golang.
+- [winrm-cli](winrm-cli.md) — Cli tool to remotely execute commands on Windows machines.
+- [zerohand](zerohand.md) — A simple and efficient load testing tool for Web APIs.

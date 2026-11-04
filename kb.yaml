@@ -1,0 +1,31 @@
+{
+  "openshelf": "1.7",
+  "id": "awesome-kb-go",
+  "uid": "01a1a884-3d00-7f98-be25-3bec035e5723",
+  "title": "Go (Awesome KB)",
+  "description": "A source-attributed Go knowledge base ingested from avelino/awesome-go, with stub pages for the curated list entries.",
+  "profile": "awesome",
+  "version": "2026.11.04",
+  "license": "MIT",
+  "maintainers": [
+    "hexsecs"
+  ],
+  "tags": [
+    "go",
+    "awesome"
+  ],
+  "layout": {
+    "pages": "wiki",
+    "index": "index.md",
+    "sources": "raw",
+    "schema": "AGENTS.md",
+    "log": "log.md",
+    "checksums": "raw/MANIFEST.sha256"
+  },
+  "x-ingest": {
+    "source": "github:avelino/awesome-go",
+    "file": "README.md",
+    "tool": "tools/ingest.py",
+    "source_commit": "5e201a5e2340964477bbf5dc1babf83577606f92"
+  }
+}

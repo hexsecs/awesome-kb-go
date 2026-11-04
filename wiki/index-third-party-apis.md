@@ -1,0 +1,122 @@
+---
+type: index
+title: "Third-party APIs"
+---
+
+# Third-party APIs
+
+- [airtable](airtable.md) — Go client library for the Airtable API.
+- [anaconda](anaconda.md) — Go client library for the Twitter 1.1 API.
+- [appstore-sdk-go](appstore-sdk-go.md) — Unofficial Golang SDK for AppStore Connect API.
+- [aws-encryption-sdk-go](aws-encryption-sdk-go.md) — Unofficial Go SDK implementation of the AWS Encryption SDK.
+- [aws-sdk-go](aws-sdk-go.md) — The official AWS SDK for the Go programming language.
+- [birdeye-go](birdeye-go.md) — Go client for Birdeye DeFi API with typed spot prices, OHLCV candles, historical data, and raw request escape hatch.
+- [bqwriter](bqwriter.md) — High Level Go Library to write data into Google BigQuery at a high throughout.
+- [brewerydb](brewerydb.md) — Go library for accessing the BreweryDB API.
+- [cachet](cachet.md) — Go client library for Cachet (open source status page system).
+- [circleci](circleci.md) — Go client library for interacting with CircleCI's API.
+- [codeship-go](codeship-go.md) — Go client library for interacting with Codeship's API v2.
+- [coinglass-go](coinglass-go.md) — Go client for Coinglass API v4 with zero dependencies, WebSocket streams, and typed endpoints for futures, spot, options, ETF, and indicators.
+- [coinpaprika-go](coinpaprika-go.md) — Go client library for interacting with Coinpaprika's API.
+- [colony-sdk-go](colony-sdk-go.md) — Go client library for The Colony — a public social network whose users are AI agents.
+- [device-check-go](device-check-go.md) — Go client library for interacting with iOS DeviceCheck API v1.
+- [discordgo](discordgo.md) — Go bindings for the Discord Chat API.
+- [disgo](disgo.md) — Go API Wrapper for the Discord API.
+- [dusupay-sdk-go](dusupay-sdk-go.md) — Unofficial Dusupay payment gateway API Client for Go
+- [ethrpc](ethrpc.md) — Go bindings for Ethereum JSON RPC API.
+- [facebook](facebook.md) — Go Library that supports the Facebook Graph API.
+- [fasapay-sdk-go](fasapay-sdk-go.md) — Unofficial Fasapay payment gateway XML API Client for Golang.
+- [fcm](fcm.md) — Go library for Firebase Cloud Messaging.
+- [featureflip-go](featureflip-go.md) — Go SDK for Featureflip feature flags, with local evaluation and streaming updates.
+- [gads](gads.md) — Google Adwords Unofficial API.
+- [gcm](gcm.md) — Go library for Google Cloud Messaging.
+- [geo-golang](geo-golang.md) — Go Library to access Google Maps, MapQuest, Nominatim, OpenCage, Bing, Mapbox, and OpenStreetMap geocoding / reverse geocoding APIs.
+- [gghstats](gghstats.md) — Self-hosted GitHub traffic dashboard that stores clones and views in SQLite beyond the 14-day API window.
+- [github](github.md) — Go library for accessing the GitHub REST API v3.
+- [githubql](githubql.md) — Go library for accessing the GitHub GraphQL API v4.
+- [go-atlassian](go-atlassian.md) — Go library for accessing the Atlassian Cloud services (Jira, Jira Service Management, Jira Agile, Confluence, Admin Cloud)
+- [go-aws-news](go-aws-news.md) — Go application and library to fetch what's new from AWS.
+- [go-chronos](go-chronos.md) — Go library for interacting with the Chronos Job Scheduler
+- [go-gerrit](go-gerrit.md) — Go client library for Gerrit Code Review.
+- [go-hacknews](go-hacknews.md) — Tiny Go client for HackerNews API.
+- [go-here](go-here.md) — Go client library around the HERE location based APIs.
+- [go-hibp](go-hibp.md) — Simple Go binding to the "Have I Been Pwned" APIs.
+- [go-imgur](go-imgur.md) — Go client library for imgur
+- [go-jira](go-jira.md) — Go client library for Atlassian JIRA
+- [go-lark](go-lark.md) — An easy-to-use unofficial SDK for Feishu and Lark Open Platform.
+- [go-marathon](go-marathon.md) — Go library for interacting with Mesosphere's Marathon PAAS.
+- [go-myanimelist](go-myanimelist.md) — Go client library for accessing the MyAnimeList API.
+- [go-openai](go-openai.md) — OpenAI ChatGPT, DALL·E, Whisper API library for Go.
+- [go-openproject](go-openproject.md) — Go client library for interacting with OpenProject API.
+- [go-postman-collection](go-postman-collection.md) — Go module to work with Postman Collections (compatible with Insomnia).
+- [go-redoc](go-redoc.md) — Embedded OpenAPI/Swagger documentation ui for Go using ReDoc.
+- [go-restcountries](go-restcountries.md) — Go library for the REST Countries API.
+- [go-salesforce](go-salesforce.md) — Go client library for interacting with the Salesforce REST API.
+- [go-sophos](go-sophos.md) — Go client library for the Sophos UTM REST API with zero dependencies.
+- [go-swagger-ui](go-swagger-ui.md) — Go library containing precompiled Swagger UI for serving swagger json.
+- [go-telegraph](go-telegraph.md) — Telegraph publishing platform API client.
+- [go-trending](go-trending.md) — Go library for accessing trending repositories and developers at Github.
+- [go-unsplash](go-unsplash.md) — Go client library for the Unsplash.com API.
+- [go-xkcd](go-xkcd.md) — Go client for the xkcd API.
+- [go-yapla](go-yapla.md) — Go client library for the Yapla v2.0 API.
+- [goagi](goagi.md) — Go library to build Asterisk PBX agi/fastagi applications.
+- [goami2](goami2.md) — AMI v2 library for Asterisk PBX.
+- [GoFreeDB](gofreedb.md) — Golang library providing common and simple database abstractions on top of Google Sheets.
+- [gogtrends](gogtrends.md) — Google Trends Unofficial API.
+- [golang-tmdb](golang-tmdb.md) — Golang wrapper for The Movie Database API v3.
+- [golyrics](golyrics.md) — Golyrics is a Go library to fetch music lyrics data from the Wikia website.
+- [gomalshare](gomalshare.md) — Go library MalShare API malshare.com
+- [GoMusicBrainz](gomusicbrainz.md) — Go MusicBrainz WS2 client library.
+- [google](google.md) — Auto-generated Google APIs for Go.
+- [google-analytics](google-analytics.md) — Simple wrapper for easy google analytics reporting.
+- [google-cloud](google-cloud.md) — Google Cloud APIs Go Client Library.
+- [gopaapi5](gopaapi5.md) — Go Client Library for Amazon Product Advertising API 5.0.
+- [gopensky](gopensky.md) — Go client implementation for OpenSKY Network live's API (airspace ADS-B and Mode S data).
+- [gosip](gosip.md) — Client library for SharePoint.
+- [gostorm](gostorm.md) — GoStorm is a Go library that implements the communications protocol required to write Storm spouts and Bolts in Go that communicate with the Storm shells.
+- [hipchat](hipchat.md) — This project implements a golang client library for the Hipchat API.
+- [hipchat (xmpp)](hipchat-xmpp.md) — A golang package to communicate with HipChat over XMPP.
+- [httpsms-go](httpsms-go.md) — Go client for the httpSMS API.
+- [igdb](igdb.md) — Go client for the Internet Game Database API.
+- [ip2location-io-go](ip2location-io-go.md) — Go wrapper for the IP2Location.io API IP2Location.io.
+- [jokeapi-go](jokeapi-go.md) — Go client for JokeAPI.
+- [lark](lark.md) — Feishu/Lark Open API Go SDK, Support ALL Open API and Event Callback.
+- [lastpass-go](lastpass-go.md) — Go client library for the LastPass API.
+- [lemonsqueezy-go](lemonsqueezy-go.md) — Go client for the Lemon Squeezy API.
+- [libgoffi](libgoffi.md) — Library adapter toolbox for native libffi integration
+- [libopenapi](libopenapi.md) — Parse, validate, and work with OpenAPI, Swagger, Overlays, and Arazzo specifications.
+- [manus-ai-go](manus-ai-go.md) — Go client for Manus AI API v2 with task automation, file management, webhooks, and type-safe models.
+- [Medium](medium.md) — Golang SDK for Medium's OAuth2 API.
+- [megos](megos.md) — Client library for accessing an Apache Mesos cluster.
+- [minio-go](minio-go.md) — Minio Go Library for Amazon S3 compatible cloud storage.
+- [mixpanel](mixpanel.md) — Mixpanel is a library for tracking events and sending Mixpanel profile updates to Mixpanel from your go applications.
+- [nansen-go](nansen-go.md) — Go client for Nansen AI API with Smart Money analytics, token screener, profiler, and zero dependencies.
+- [newsapi-go](newsapi-go.md) — Go client for NewsAPI.
+- [openaigo](openaigo.md) — OpenAI GPT3/GPT3.5 ChatGPT API client library for Go.
+- [openapi](openapi.md) — Parse, validate, and manipulate OpenAPI, Swagger, Arazzo, and OpenAPI Overlay documents.
+- [patreon-go](patreon-go.md) — Go library for Patreon API.
+- [paypal](paypal.md) — Wrapper for PayPal payment API.
+- [playlyfe](playlyfe.md) — The Playlyfe Rest API Go SDK.
+- [pushover](pushover.md) — Go wrapper for the Pushover API.
+- [rawg-sdk-go](rawg-sdk-go.md) — Go library for the RAWG Video Games Database API
+- [shopify](shopify.md) — Go Library to make CRUD request to the Shopify API.
+- [simples3](simples3.md) — Simple no frills AWS S3 Library using REST with V4 Signing written in Go.
+- [slack](slack.md) — Slack API in Go.
+- [smite](smite.md) — Go package to wraps access to the Smite game API.
+- [sonarqube-client-go](sonarqube-client-go.md) — Go client library and command-line client for the SonarQube Web API.
+- [spec](spec.md) — Lightweight OpenAPI 3.x builder supporting static generation and popular frameworks like chi, echo, gin, fiber, mux and more.
+- [spotify](spotify.md) — Go Library to access Spotify WEB API.
+- [steam](steam.md) — Go Library to interact with Steam game servers.
+- [stripe](stripe.md) — Go client for the Stripe API.
+- [swag](swag.md) — No comments, simple go wrapper to create swagger 2.0 compatible APIs. Support most routing frameworks, such as built-in, gin, chi, mux, echo, httprouter…
+- [textbelt](textbelt.md) — Go client for the textbelt.com txt messaging API.
+- [threads-go](threads-go.md) — Go client library for the Meta Threads API with OAuth 2.0, rate limiting, and type-safe error handling.
+- [Trello](trello.md) — Go wrapper for the Trello API.
+- [TripAdvisor](tripadvisor.md) — Go wrapper for the TripAdvisor API.
+- [tumblr](tumblr.md) — Go wrapper for the Tumblr v2 API.
+- [uptimerobot](uptimerobot.md) — Go wrapper and command-line client for the Uptime Robot v2 API.
+- [vl-go](vl-go.md) — Go client library around the VerifID identity verification layer API.
+- [webhooks](webhooks.md) — Webhook receiver for GitHub and Bitbucket.
+- [wit-go](wit-go.md) — Go client for wit.ai HTTP API.
+- [ynab](ynab.md) — Go wrapper for the YNAB API.
+- [zooz](zooz.md) — Go client for the Zooz API.

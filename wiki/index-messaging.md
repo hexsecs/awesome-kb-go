@@ -1,0 +1,67 @@
+---
+type: index
+title: "Messaging"
+---
+
+# Messaging
+
+- [ami](ami.md) — Go client to reliable queues based on Redis Cluster Streams.
+- [amqp](amqp.md) — Go RabbitMQ Client Library.
+- [APNs2](apns2.md) — HTTP/2 Apple Push Notification provider for Go - Send push notifications to iOS, tvOS, Safari and OSX apps.
+- [Asynq](asynq.md) — A simple, reliable, and efficient distributed task queue for Go built on top of Redis.
+- [backlite](backlite.md) — Type-safe, persistent, embedded task queues and background job runner w/ SQLite.
+- [Beaver](beaver.md) — A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
+- [broker](broker.md) — Production-grade messaging abstraction with a unified API for various brokers and built-in OpenTelemetry integration.
+- [Bus](bus.md) — Minimalist message bus implementation for internal communication.
+- [Centrifugo](centrifugo.md) — Real-time messaging (Websockets or SockJS) server in Go.
+- [Chanify](chanify.md) — A push notification server send message to your iOS devices.
+- [Commander](commander.md) — A high-level event driven consumer/producer supporting various "dialects" such as Apache Kafka.
+- [Confluent Kafka Golang Client](confluent-kafka-golang-client.md) — confluent-kafka-go is Confluent's Golang client for Apache Kafka and the Confluent Platform.
+- [dbus](dbus.md) — Native Go bindings for D-Bus.
+- [drone-line](drone-line.md) — Sending Line notifications using a binary, docker or Drone CI.
+- [emitter](emitter.md) — Emits events using Go way, with wildcard, predicates, cancellation possibilities and many other good wins.
+- [event](event.md) — Implementation of the pattern observer.
+- [EventBus](eventbus.md) — The lightweight event bus with async compatibility.
+- [gaurun-client](gaurun-client.md) — Gaurun Client written in Go.
+- [Glue](glue.md) — Robust Go and Javascript Socket Library (Alternative to Socket.io).
+- [go-eventbus](go-eventbus.md) — Simple Event Bus package for Go.
+- [Go-MediatR](go-mediatr.md) — A library for handling mediator patterns and simplified CQRS patterns within an event-driven architecture, inspired by csharp MediatR library.
+- [go-mq](go-mq.md) — RabbitMQ client with declarative configuration.
+- [go-notify](go-notify.md) — Native implementation of the freedesktop notification spec.
+- [go-nsq](go-nsq.md) — the official Go package for NSQ.
+- [go-res](go-res.md) — Package for building REST/real-time services where clients are synchronized seamlessly, using NATS and Resgate.
+- [go-vitotrol](go-vitotrol.md) — Client library to Viessmann Vitotrol web service.
+- [GoEventBus](goeventbus.md) — A blazing‑fast, in‑memory, lock‑free event bus library
+- [Gollum](gollum.md) — A n:m multiplexer that gathers messages from different sources and broadcasts them to a set of destinations.
+- [golongpoll](golongpoll.md) — HTTP longpoll server library that makes web pub-sub simple.
+- [gopush-cluster](gopush-cluster.md) — gopush-cluster is a go push server cluster.
+- [gorush](gorush.md) — Push notification server using APNs2 and google GCM.
+- [gosd](gosd.md) — A library for scheduling when to dispatch a message to a channel.
+- [guble](guble.md) — Messaging server using push notifications (Google Firebase Cloud Messaging, Apple Push Notification services, SMS) as well as websockets, a REST API…
+- [hare](hare-2.md) — A user friendly library for sending messages and listening to TCP sockets.
+- [hub](hub.md) — A Message/Event Hub for Go applications, using publish/subscribe pattern with support for alias like rabbitMQ exchanges.
+- [hypermatch](hypermatch.md) — Matches events against large sets of rules, with rules written in Go or as JSON.
+- [jazz](jazz.md) — A simple RabbitMQ abstraction layer for queue administration and publishing and consuming of messages.
+- [kiln](kiln.md) — Persistent background jobs in PostgreSQL, MySQL or SQLite, with retries, workflows, recurring jobs and a dashboard.
+- [machinery](machinery.md) — Asynchronous task queue/job queue based on distributed message passing.
+- [mangos](mangos.md) — Pure go implementation of the Nanomsg ("Scalability Protocols") with transport interoperability.
+- [melody](melody.md) — Minimalist framework for dealing with websocket sessions, includes broadcasting and automatic ping/pong handling.
+- [Mercure](mercure.md) — Server and library to dispatch server-sent updates using the Mercure protocol (built on top of Server-Sent Events).
+- [messagebus](messagebus.md) — messagebus is a Go simple async message bus, perfect for using as event bus when doing event sourcing, CQRS, DDD.
+- [NATS Go Client](nats-go-client.md) — Go client for the NATS
+- [nsq-event-bus](nsq-event-bus.md) — A tiny wrapper around NSQ topic and channel.
+- [oplog](oplog.md) — Generic oplog/replication system for REST APIs.
+- [pubsub](pubsub.md) — Simple pubsub package for go.
+- [Quamina](quamina.md) — Fast pattern-matching for filtering messages and events.
+- [rabbitroutine](rabbitroutine.md) — Lightweight library that handles RabbitMQ auto-reconnect and publishing retries. The library takes into account the need to re-declare entities in RabbitMQ…
+- [rabbus](rabbus.md) — A tiny wrapper over amqp exchanges and queues.
+- [rabtap](rabtap.md) — RabbitMQ swiss army knife cli app.
+- [RapidMQ](rapidmq.md) — RapidMQ is a lightweight and reliable library for managing of the local messages queue.
+- [Ratus](ratus.md) — Ratus is a RESTful asynchronous task queue server.
+- [redisqueue](redisqueue.md) — redisqueue provides a producer and consumer of a queue that uses Redis streams.
+- [rmqconn](rmqconn.md) — RabbitMQ Reconnection. Wrapper over amqp.Connection and amqp.Dial. Allowing to do a reconnection when the connection is broken before forcing the call to…
+- [sarama](sarama.md) — Go library for Apache Kafka.
+- [Uniqush-Push](uniqush-push.md) — Redis backed unified push service for server-side notifications to mobile devices.
+- [varmq](varmq.md) — A storage-agnostic message queue and worker pool for concurrent Go programs.
+- [Watermill](watermill.md) — Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional…
+- [zmq4](zmq4.md) — Go interface to ZeroMQ version 4. Also available for version 3 and version 2.

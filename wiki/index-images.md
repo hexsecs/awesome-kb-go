@@ -1,0 +1,52 @@
+---
+type: index
+title: "Images"
+---
+
+# Images
+
+- [bild](bild.md) — Collection of image processing algorithms in pure Go.
+- [bimg](bimg.md) — Small package for fast and efficient image processing using libvips.
+- [cameron](cameron.md) — An avatar generator for Go.
+- [canvas](canvas.md) — Vector graphics to PDF, SVG or rasterized image.
+- [color-extractor](color-extractor.md) — Dominant color extractor with no external dependencies.
+- [darkroom](darkroom.md) — An image proxy with changeable storage backends and image processing engines with focus on speed and resiliency.
+- [eagle-image-api](eagle-image-api.md) — Image optimization and transformation API using libvips, deployable to AWS Lambda and CloudFront.
+- [geopattern](geopattern.md) — Create beautiful generative image patterns from a string.
+- [gg](gg.md) — 2D rendering in pure Go.
+- [gift](gift.md) — Package of image processing filters.
+- [gltf](gltf.md) — Efficient and robust glTF 2.0 reader, writer and validator.
+- [go-cairo](go-cairo.md) — Go binding for the cairo graphics library.
+- [go-gd](go-gd.md) — Go binding for GD library.
+- [go-nude](go-nude.md) — Nudity detection with Go.
+- [go-qrcode](go-qrcode.md) — Generate QR codes with personalized styles, allowing adjustments to color, block size, shape, and icons.
+- [go-webcolors](go-webcolors.md) — Port of webcolors library from Python to Go.
+- [go-webp](go-webp.md) — Library for encode and decode webp pictures, using libwebp.
+- [gocv](gocv.md) — Go package for computer vision using OpenCV 3.3+.
+- [gogpu/gg](gogpu-gg.md) — GPU-accelerated 2D rendering with Canvas-like API, zero CGO (part of GoGPU pure Go graphics ecosystem).
+- [goimagehash](goimagehash.md) — Go Perceptual image hashing package.
+- [goimghdr](goimghdr.md) — The imghdr module determines the type of image contained in a file for Go.
+- [govatar](govatar.md) — Library and CMD tool for generating funny avatars.
+- [govips](govips.md) — A lightning fast image processing and resizing library for Go.
+- [gowitness](gowitness.md) — Screenshoting webpages using go and headless chrome on command line.
+- [gridder](gridder.md) — A Grid based 2D Graphics library.
+- [image2ascii](image2ascii.md) — Convert image to ASCII.
+- [imagick](imagick.md) — Go binding to ImageMagick's MagickWand C API.
+- [imaginary](imaginary.md) — Fast and simple HTTP microservice for image resizing.
+- [imaging](imaging.md) — Simple Go image processing package.
+- [imagor](imagor.md) — Fast, secure image processing server and Go library, using libvips.
+- [img](img.md) — Selection of image manipulation tools.
+- [ln](ln.md) — 3D line art rendering in Go.
+- [mergi](mergi.md) — Tool & Go library for image manipulation (Merge, Crop, Resize, Watermark, Animate).
+- [mort](mort.md) — Storage and image processing server written in Go.
+- [mpo](mpo.md) — Decoder and conversion tool for MPO 3D Photos.
+- [nativewebp](nativewebp.md) — Go native WebP encoder with zero external dependencies.
+- [picfit](picfit.md) — An image resizing server written in Go.
+- [pt](pt.md) — Path tracing engine written in Go.
+- [scout](scout.md) — Scout is a standalone open source software solution for DIY video security.
+- [smartcrop](smartcrop.md) — Finds good crops for arbitrary images and crop sizes.
+- [steganography](steganography.md) — Pure Go Library for LSB steganography.
+- [stegify](stegify.md) — Go tool for LSB steganography, capable of hiding any file within an image.
+- [svgo](svgo.md) — Go Language Library for SVG generation.
+- [transformimgs](transformimgs.md) — Transformimgs resizes and optimises images for Web using next-generation formats.
+- [webp-server](webp-server.md) — Simple and minimal image server capable of storing, resizing, converting and caching images.

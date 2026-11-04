@@ -1,0 +1,22 @@
+---
+uid: "01a1a884-7cf8-7a02-a89b-5958542a8e2a"
+title: "go-commons-pool"
+summary: "Generic object pool for Golang."
+type: "entity"
+category: "Miscellaneous / Uncategorized"
+url: "https://github.com/jolestar/go-commons-pool"
+status: "unknown"
+created: "2026-11-04"
+updated: "2026-11-04"
+depth: "stub"
+source_list: "avelino/awesome-go"
+source_commit: "5e201a5e2340964477bbf5dc1babf83577606f92"
+list_summary: "Generic object pool for Golang."
+sources: [{"url": "https://github.com/avelino/awesome-go/blob/5e201a5e2340964477bbf5dc1babf83577606f92/README.md", "retrieved": "2026-11-04"}]
+---
+
+Generic object pool for Golang.
+
+- **Resource:** https://github.com/jolestar/go-commons-pool
+- **Source:** [avelino/awesome-go](https://github.com/avelino/awesome-go/blob/5e201a5e2340964477bbf5dc1babf83577606f92/README.md#L2070)
+- **Depth:** Generated stub; no independent resource verification.

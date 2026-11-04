@@ -1,0 +1,74 @@
+---
+type: index
+title: "Configuration"
+---
+
+# Configuration
+
+- [aconfig](aconfig.md) — Simple, useful and opinionated config loader.
+- [argus](argus.md) — File watching and configuration management with MPSC ring buffer, adaptive batching strategies, and universal format parsing (JSON, YAML, TOML, INI, HCL…
+- [azureappconfiguration](azureappconfiguration.md) — The configuration provider for consuming data in Azure App Configuration from Go applications.
+- [bcl](bcl.md) — BCL is a configuration language similar to HCL.
+- [cleanenv](cleanenv.md) — Minimalistic configuration reader (from files, ENV, and wherever you want).
+- [config](config.md) — Cloud native application configuration. Bind ENV to structs in only two lines.
+- [config](config-2.md) — configure your app using file, environment variables, or flags in two lines of code.
+- [config](config-3.md) — Struct-based configuration loader with a dedicated config file parser, supporting env vars, flags, defaults, and validation.
+- [configuration](configuration.md) — Library for initializing configuration structs from env variables, files, flags and 'default' tag.
+- [configuro](configuro.md) — opinionated configuration loading & validation framework from ENV and Files focused towards 12-Factor compliant applications.
+- [confiq](confiq.md) — Structured data format to config struct decoder library for Go - supporting multiple data formats.
+- [confita](confita.md) — Load configuration in cascade from multiple backends into a struct.
+- [conflate](conflate.md) — Library/tool to merge multiple JSON/YAML/TOML files from arbitrary URLs, validation against a JSON schema, and application of default values defined in the…
+- [enflag](enflag.md) — Container-oriented, zero-dependency configuration library that unifies Env variable and Flag parsing. Uses generics for type safety, without reflection or…
+- [env](env-2.md) — Parse environment variables to Go structs (with defaults).
+- [env](env-3.md) — A lightweight package for loading environment variables into structs.
+- [env](env-4.md) — An environment utility package with support for unmarshaling into structs.
+- [envconfig](envconfig.md) — Read your configuration from environment variables.
+- [envh](envh.md) — Helpers to manage environment variables.
+- [envyaml](envyaml.md) — Yaml with environment variables reader. it helps to have secrets as environment variable but load them configs as structured Yaml.
+- [fig](fig.md) — Tiny library for reading configuration from a file and from environment variables (with validation & defaults).
+- [genv](genv.md) — Read environment variables easily with dotenv support.
+- [go-array](go-array.md) — A Go package that read or set data from map, slice or json.
+- [go-aws-ssm](go-aws-ssm.md) — Go package that fetches parameters from AWS System Manager - Parameter Store.
+- [go-cfg](go-cfg.md) — The library provides a unified way to read configuration data into a structure from various sources, such as env, flags, and configuration files (.json…
+- [go-conf](go-conf.md) — Simple library for application configuration based on annotated structs. It supports reading the configuration from environment variables, config files and…
+- [go-config](go-config.md) — Simple and convenient library for working with app configurations.
+- [go-external-config](go-external-config.md) — Spring-inspired configuration management library for Go.
+- [go-external-config/aws](go-external-config-aws.md) — AWS property source support for go-external-config.
+- [go-external-config/consul](go-external-config-consul.md) — Consul property source support for go-external-config.
+- [go-external-config/vault](go-external-config-vault.md) — Vault property source support for go-external-config.
+- [go-ini](go-ini.md) — A Go package that marshals and unmarshals INI-files.
+- [go-ssm-config](go-ssm-config.md) — Go utility for loading configuration parameters from AWS SSM (Parameter Store).
+- [go-up](go-up.md) — A simple configuration library with recursive placeholders resolution and no magic.
+- [go-yamlvalidator](go-yamlvalidator.md) — Source-aware YAML validation with native Go schemas and JSON Schema support.
+- [GoCfg](gocfg.md) — Config manager with Struct Tags based contracts, custom value providers, parsers, and documentation generation. Customizable yet simple.
+- [goconfig](goconfig.md) — Populate Go structs from flags, environment variables, config.json and defaults with deterministic precedence. No extra dependencies.
+- [godotenv](godotenv.md) — Go port of Ruby's dotenv library (Loads environment variables from .env).
+- [goenv](goenv.md) — Reads the ENV environment variable and reports whether the process is running in production or development.
+- [GoLobby/Config](golobby-config.md) — GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language.
+- [gone/jconf](gone-jconf.md) — Modular JSON configuration. Keep your config structs along with the code they configure and delegate parsing to submodules without sacrificing full config…
+- [gonfig](gonfig.md) — Tag-based configuration parser which loads values from different providers into typesafe struct.
+- [gonfiguration](gonfiguration.md) — Loads configuration from environment variables into structs via reflection, with struct-tag defaults and required fields.
+- [gookit/config](gookit-config.md) — application config manage(load,get,set). support JSON, YAML, TOML, INI, HCL. multi file load, data override merge.
+- [harvester](harvester.md) — Harvester, a easy to use static and dynamic configuration package supporting seeding, env vars and Consul integration.
+- [hedzr/store](hedzr-store.md) — Extensible, high-performance configuration management library, optimized for hierarchical data.
+- [hjson](hjson.md) — Human JSON, a configuration file format for humans. Relaxed syntax, fewer mistakes, more comments.
+- [hocon](hocon.md) — Configuration library for working with the HOCON(a human-friendly JSON superset) format, supports features like environment variables, referencing other…
+- [ini](ini.md) — Go package to read and write INI files.
+- [ini](ini-2.md) — INI Parser & Write Library, Unmarshal to Struct, Marshal to Json, Write File, watch file.
+- [kelseyhightower/envconfig](kelseyhightower-envconfig.md) — Go library for managing configuration data from environment variables.
+- [koanf](koanf.md) — Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line.
+- [konf](konf.md) — The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP).
+- [konfig](konfig.md) — Composable, observable and performant config handling for Go for the distributed processing era.
+- [kong](kong.md) — Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc…
+- [nasermirzaei89/env](nasermirzaei89-env.md) — Simple useful package for read environment variables.
+- [nfigure](nfigure.md) — Per-library struct-tag based configuration from command lines (Posix & Go-style); environment, JSON, YAML
+- [onion](onion.md) — Layer based configuration for Go, Supports JSON, TOML, YAML, properties, etcd, env, and encryption using PGP.
+- [piper](piper.md) — Viper wrapper with config inheritance and key generation.
+- [sonic](sonic.md) — A blazingly fast JSON serializing & deserializing library.
+- [swap](swap.md) — Instantiate/configure structs recursively, based on build environment. (YAML, TOML, JSON and env).
+- [typenv](typenv.md) — Minimalistic, zero dependency, typed environment variables library.
+- [uConfig](uconfig.md) — Lightweight, zero-dependency, and extendable configuration management.
+- [viper](viper.md) — Go configuration with fangs.
+- [xdg](xdg.md) — Go implementation of the XDG Base Directory Specification and XDG user directories.
+- [yamagiconf](yamagiconf.md) — The "safe subset" of YAML for Go configs.
+- [zerocfg](zerocfg.md) — Zero-effort, concise configuration management that avoids boilerplate and repetitive code, supports multiple sources with priority overrides.

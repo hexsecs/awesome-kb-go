@@ -1,0 +1,55 @@
+---
+type: index
+title: "Websites / Tutorials"
+---
+
+# Websites / Tutorials
+
+- [50 Shades of Go](50-shades-of-go.md) — Traps, Gotchas, and Common Mistakes for New Golang Devs.
+- [A Comprehensive Guide to Structured Logging in Go](a-comprehensive-guide-to-structured-logging-in-go.md) — Delve deep into the world of structured logging in Go with a specific focus on recently accepted slog proposal which aims to bring high performance…
+- [A Guide to Golang E-Commerce](a-guide-to-golang-e-commerce.md) — Building a Golang site for e-commerce (demo included).
+- [A Tour of Go](a-tour-of-go.md) — Interactive tour of Go.
+- [Build a Database in 1000 lines of code](build-a-database-in-1000-lines-of-code.md) — Build a NoSQL Database From Zero in 1000 Lines of Code.
+- [Build web application with Golang](build-web-application-with-golang-2.md) — Golang ebook intro how to build a web app with golang.
+- [Building and Testing a REST API in Go with Gorilla Mux and PostgreSQL](building-and-testing-a-rest-api-in-go-with-gorilla-mux-and-postgresql.md) — We’ll write an API with the help of the powerful Gorilla Mux.
+- [Building Go Web Applications and Microservices Using Gin](building-go-web-applications-and-microservices-using-gin.md) — Get familiar with Gin and find out how it can help you reduce boilerplate code and build a request handling pipeline.
+- [Caching Slow Database Queries](caching-slow-database-queries.md) — How to cache slow database queries.
+- [Canceling MySQL](canceling-mysql.md) — How to cancel MySQL queries.
+- [CodeCrafters Golang Track](codecrafters-golang-track.md) — Achieve mastery in advanced Go by building your own Redis, Docker, Git, and SQLite. Featuring goroutines, systems programming, file I/O, and more.
+- [Design Patterns in Go](design-patterns-in-go.md) — Collection of programming design patterns implemented in Go.
+- [Games With Go](games-with-go.md) — A video series teaching programming and game development.
+- [Go By Example](go-by-example.md) — Hands-on introduction to Go using annotated example programs.
+- [Go Cheat Sheet](go-cheat-sheet.md) — Go's reference card.
+- [Go database/sql tutorial](go-database-sql-tutorial.md) — Introduction to database/sql.
+- [Go in 7 days](go-in-7-days.md) — Learn everything about Go in 7 days (from a Nodejs developer).
+- [Go Language Tutorial](go-language-tutorial.md) — Learn Go language Tutorial.
+- [Go Tutorial](go-tutorial.md) — Learn Go programming.
+- [Go WebAssembly Tutorial - Building a Simple Calculator](go-webassembly-tutorial-building-a-simple-calculator.md) — Go WebAssembly Tutorial - Building a Simple Calculator, listed under Websites / Tutorials in avelino/awesome-go.
+- [go-clean-template](go-clean-template.md) — Clean Architecture template for Golang services.
+- [go-patterns](go-patterns.md) — Curated list of Go design patterns, recipes and idioms.
+- [Golang for Node.js Developers](golang-for-node-js-developers.md) — Examples of Golang compared to Node.js for learning.
+- [Golang Tutorial Guide](golang-tutorial-guide.md) — A List of Free Courses to Learn the Go Programming Language.
+- [golang-examples](golang-examples.md) — Many examples to learn Golang.
+- [Golangbot](golangbot.md) — Tutorials to get started with programming in Go.
+- [GopherCoding](gophercoding.md) — Collection of code snippets and tutorials to help tackle every day issues.
+- [GopherSnippets](gophersnippets.md) — Code snippets with tests and testable examples for the Go programming language.
+- [Gosamples](gosamples.md) — Collection of code snippets that let you solve everyday code problems.
+- [GraphQL with Go](graphql-with-go.md) — Learn how to create a Go GraphQL server and client with code generation. Also includes creating REST endpoints.
+- [Hackr.io](hackr-io.md) — Learn Go from the best online golang tutorials submitted & voted by the golang programming community.
+- [Hex Monscape](hex-monscape.md) — Getting started guidelines in writing maintainable code using Hexagonal Architecture.
+- [How to Benchmark: dbq vs sqlx vs GORM](how-to-benchmark-dbq-vs-sqlx-vs-gorm.md) — Learn how to benchmark in Go. As a case-study, we will benchmark dbq, sqlx and GORM.
+- [How To Deploy a Go Web Application with Docker](how-to-deploy-a-go-web-application-with-docker.md) — Learn how to use Docker for Go development and how to build production Docker images.
+- [How to Implement Role-Based Access Control (RBAC) Authorization in Golang](how-to-implement-role-based-access-control-rbac-authorization-in-golang.md) — A guide to implementing Role-Based Access Control (RBAC) in Golang, including code examples, covering various methods to secure app endpoints with…
+- [How to Use Godog for Behavior-driven Development in Go](how-to-use-godog-for-behavior-driven-development-in-go.md) — Get started with Godog - a Behavior-driven development framework for building and testing Go applications.
+- [Learn Go with 1000+ Exercises](learn-go-with-1000-exercises.md) — Learn Go with thousands of examples, exercises, and quizzes.
+- [Learn Go with TDD](learn-go-with-tdd.md) — Learn Go with test-driven development.
+- [Learning Go by examples](learning-go-by-examples.md) — Series of articles in order to learn Golang language by concrete applications as example.
+- [Microservices with Go](microservices-with-go.md) — Dive deep into building microservices using Go, including gRPC.
+- [package main](package-main.md) — YouTube channel about Programming in Go.
+- [Programming for Lovers](programming-for-lovers.md) — Free introductory programming course with Go code-alongs built around scientific applications.
+- [Programming with Google Go](programming-with-google-go.md) — Coursera Specialization to learn about Go from scratch.
+- [Scaling Go Applications](scaling-go-applications.md) — Everything about building, deploying and scaling Go applications in production.
+- [The world’s easiest introduction to WebAssembly with Golang](the-world-s-easiest-introduction-to-webassembly-with-golang.md) — The world’s easiest introduction to WebAssembly with Golang, listed under Websites / Tutorials in avelino/awesome-go.
+- [Understanding Go in a visual way](understanding-go-in-a-visual-way.md) — Learn Go visually
+- [W3basic Go Tutorials](w3basic-go-tutorials.md) — W3Basic provides an in-depth tutorial and well-organized content to learn Golang programming.
+- [Your basic Go](your-basic-go.md) — Huge collection of tutorials and how to's.
