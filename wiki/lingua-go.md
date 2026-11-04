@@ -1,0 +1,22 @@
+---
+uid: "01a1a884-7d00-70a9-a0b4-ad556baabd7f"
+title: "lingua-go"
+summary: "An accurate natural language detection library, suitable for long and short text alike. Supports detecting multiple languages in mixed-language text."
+type: "entity"
+category: "Natural Language Processing / Language Detection"
+url: "https://github.com/pemistahl/lingua-go"
+status: "unknown"
+created: "2026-11-04"
+updated: "2026-11-04"
+depth: "stub"
+source_list: "avelino/awesome-go"
+source_commit: "5e201a5e2340964477bbf5dc1babf83577606f92"
+list_summary: "An accurate natural language detection library, suitable for long and short text alike. Supports detecting multiple languages in mixed-language text."
+sources: [{"url": "https://github.com/avelino/awesome-go/blob/5e201a5e2340964477bbf5dc1babf83577606f92/README.md", "retrieved": "2026-11-04"}]
+---
+
+An accurate natural language detection library, suitable for long and short text alike. Supports detecting multiple languages in mixed-language text.
+
+- **Resource:** https://github.com/pemistahl/lingua-go
+- **Source:** [avelino/awesome-go](https://github.com/avelino/awesome-go/blob/5e201a5e2340964477bbf5dc1babf83577606f92/README.md#L2124)
+- **Depth:** Generated stub; no independent resource verification.

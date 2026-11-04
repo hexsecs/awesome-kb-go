@@ -1,0 +1,199 @@
+---
+type: index
+title: "Utilities"
+---
+
+# Utilities
+
+- [abstract](abstract.md) — Abstractions and utilities to get rid of boilerplate code in business logic.
+- [apm](apm.md) — Process manager for Golang applications with an HTTP API.
+- [backscanner](backscanner.md) — A scanner similar to bufio.Scanner, but it reads and returns lines in reverse order, starting at a given position and going backward.
+- [bed](bed.md) — A Vim-like binary editor written in Go.
+- [blank](blank.md) — Verify or remove blanks and whitespace from strings.
+- [bleep](bleep.md) — Perform any number of actions on any set of OS signals in Go.
+- [boilr](boilr.md) — Blazingly fast CLI tool for creating projects from boilerplate templates.
+- [boring](boring.md) — Simple command-line SSH tunnel manager.
+- [changie](changie.md) — Automated changelog tool for preparing releases with lots of customization options.
+- [chyle](chyle.md) — Changelog generator using a git repository with multiple configuration possibilities.
+- [circuit](circuit-2.md) — An efficient and feature complete Hystrix like Go implementation of the circuit breaker pattern.
+- [circuitbreaker](circuitbreaker.md) — Circuit Breakers in Go.
+- [clipboard](clipboard.md) — 📋 cross-platform clipboard package in Go.
+- [clockwork](clockwork.md) — A simple fake clock for golang.
+- [cmd](cmd-2.md) — Library for executing shell commands on osx, windows and linux.
+- [config-file-validator](config-file-validator.md) — Cross Platform tool to validate configuration files.
+- [contem](contem.md) — Drop-in context.Context replacement for graceful shutdown Go applications.
+- [cookie](cookie.md) — Cookie struct parsing and helper package.
+- [copy-pasta](copy-pasta.md) — Universal multi-workstation clipboard that uses S3 like backend for the storage.
+- [countries](countries.md) — Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standards.
+- [countries](countries-2.md) — All you need when you are working with countries in Go.
+- [create-go-app](create-go-app.md) — A powerful CLI for create a new production-ready project with backend (Golang), frontend (JavaScript, TypeScript) & deploy automation (Ansible, Docker) by…
+- [cryptgo](cryptgo.md) — Crytpgo is a TUI based application written purely in Go to monitor and observe cryptocurrency prices in real time!
+- [ctop](ctop.md) — Top-like interface (e.g. htop) for container metrics.
+- [ctxutil](ctxutil.md) — A collection of utility functions for contexts.
+- [cvt](cvt.md) — Easy and safe convert any value to another type.
+- [dbt](dbt.md) — A framework for running self-updating signed binaries from a central, trusted repository.
+- [Death](death.md) — Managing go application shutdown with signals.
+- [debounce](debounce.md) — A zero-allocation debouncer written in Go.
+- [delve](delve.md) — Go debugger.
+- [dive](dive.md) — A tool for exploring each layer in a Docker image.
+- [dlog](dlog.md) — Compile-time controlled logger to make your release smaller without removing debug calls.
+- [EaseProbe](easeprobe.md) — A simple, standalone, and lightWeight tool that can do health/status checking daemon, support HTTP/TCP/SSH/Shell/Client/... probes, and…
+- [equalizer](equalizer.md) — Quota manager and rate limiter collection for Go.
+- [ergo](ergo-2.md) — The management of multiple local services running over different ports made easy.
+- [evaluator](evaluator.md) — Evaluate an expression dynamically based on s-expression. It's simple and easy to extend.
+- [Failsafe-go](failsafe-go.md) — Fault tolerance and resilience patterns for Go.
+- [filetype](filetype.md) — Small package to infer the file type checking the magic numbers signature.
+- [filler](filler.md) — small utility to fill structs using "fill" tag.
+- [filter](filter.md) — provide filtering, sanitizing, and conversion of Go data.
+- [fzf](fzf.md) — Command-line fuzzy finder written in Go.
+- [generate](generate.md) — runs go generate recursively on a specified path or environment variable and can filter by regex.
+- [gh-image](gh-image.md) — A gh CLI extension that uploads images to GitHub issues, PRs, and READMEs from the command line, producing user-attachments URLs that respect repository…
+- [ghokin](ghokin.md) — Parallelized formatter with no external dependencies for gherkin (cucumber, behat...).
+- [git-time-metric](git-time-metric.md) — Simple, seamless, lightweight time tracking for Git.
+- [git-tools](git-tools.md) — Tool to help manage git tags.
+- [gitbatch](gitbatch.md) — manage your git repositories in one place.
+- [gitcs](gitcs.md) — Git Commits Visualizer, CLI tool to visualize your Git commits on your local machine.
+- [go-actuator](go-actuator.md) — Production ready features for Go based web frameworks.
+- [go-astitodo](go-astitodo.md) — Parse TODOs in your GO code.
+- [go-bind-plugin](go-bind-plugin.md) — go:generate tool for wrapping symbols exported by golang plugins (1.8 only).
+- [go-bsdiff](go-bsdiff.md) — Pure Go bsdiff and bspatch libraries and CLI tools.
+- [go-clip](go-clip.md) — A minimalistic clipboard manager for Mac.
+- [Go-Constant](go-constant.md) — Generic typed constant sets with safe string parsing for Go's missing enum type.
+- [go-convert](go-convert.md) — Package go-convert enables you to convert a value into another type.
+- [go-countries](go-countries.md) — Lightweight lookup over ISO-3166 codes.
+- [go-dry](go-dry.md) — DRY (don't repeat yourself) package for Go.
+- [go-events](go-events.md) — A go event and event'subscribe package, like wordpress hook functions.
+- [go-funk](go-funk.md) — Modern Go utility library which provides helpers (map, find, contains, filter, chunk, reverse, ...).
+- [go-health](go-health.md) — Health package simplifies the way you add health check to your services.
+- [go-httpheader](go-httpheader.md) — Go library for encoding structs into Header fields.
+- [go-lambda-cleanup](go-lambda-cleanup.md) — A CLI for removing unused or previous versions of AWS Lambdas.
+- [go-lock](go-lock.md) — go-lock is a lock library implementing read-write mutex and read-write trylock without starvation.
+- [go-pattern-match](go-pattern-match.md) — A Pattern matching library inspired by ts-pattern.
+- [go-pkg](go-pkg.md) — A go toolkit.
+- [go-problemdetails](go-problemdetails.md) — Go package for working with Problem Details.
+- [go-qr](go-qr.md) — A native, high-quality and minimalistic QR code generator.
+- [go-rate](go-rate.md) — Timed rate limiter for Go.
+- [go-safecast](go-safecast.md) — Safe number type conversion library that prevents integer overflow and underflow (addresses gosec G115 and CWE-190).
+- [go-sitemap-generator](go-sitemap-generator.md) — XML Sitemap generator written in Go.
+- [go-snk](go-snk.md) — Type-safe generic helpers for slices, maps, strings, errors, JSON, HTTP, and containers, organized as small independently adoptable packages.
+- [go-trigger](go-trigger.md) — Go-lang global event triggerer, Register Events with an id and trigger the event from anywhere from your project.
+- [go-tripper](go-tripper.md) — Tripper is a circuit breaker package for Go that allows you to circuit and control the status of circuits.
+- [go-type](go-type.md) — Library providing Go types for store/validation and transfer of ISO-4217, ISO-3166, and other types.
+- [go-utils](go-utils.md) — Simple, performant generic utilities for Go inspired by JavaScript and Python (map, filter, reduce, and more).
+- [goback](goback.md) — Go simple exponential backoff package.
+- [goctx](goctx.md) — Get your context value with high performance.
+- [godaemon](godaemon.md) — Utility to write daemons.
+- [godoclive](godoclive.md) — Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
+- [godropbox](godropbox.md) — Common libraries for writing Go services/applications from Dropbox.
+- [gofn](gofn.md) — High performance utility functions written using Generics for Go 1.18+.
+- [golarm](golarm.md) — Fire alarms with system events.
+- [golog](golog.md) — Easy and lightweight CLI tool to time track your tasks.
+- [gopencils](gopencils.md) — Small and simple package to easily consume REST APIs.
+- [goplaceholder](goplaceholder.md) — a small golang lib to generate placeholder images.
+- [goreadability](goreadability.md) — Webpage summary extractor using Facebook Open Graph and arc90's readability.
+- [goreleaser](goreleaser.md) — Deliver Go binaries as fast and easily as possible.
+- [goreporter](goreporter.md) — Golang tool that does static analysis, unit testing, code review and generate code quality report.
+- [goseaweedfs](goseaweedfs.md) — SeaweedFS client library with almost full features.
+- [gostrutils](gostrutils.md) — Collections of string manipulation and conversion functions.
+- [gotenv](gotenv.md) — Load environment variables from .env or any io.Reader in Go.
+- [goval](goval.md) — Evaluate arbitrary expressions in Go.
+- [graterm](graterm.md) — Provides primitives to perform ordered (sequential/concurrent) GRAceful TERMination (aka shutdown) in Go application.
+- [grofer](grofer.md) — A system and resource monitoring tool written in Golang!
+- [gubrak](gubrak.md) — Golang utility library with syntactic sugar. It's like lodash, but for golang.
+- [handy](handy.md) — Many utilities and helpers like string handlers/formatters and validators.
+- [healthcheck](healthcheck-2.md) — A simple yet powerful readiness test for Kubernetes.
+- [hostctl](hostctl.md) — A CLI tool to manage /etc/hosts with easy commands.
+- [htcat](htcat.md) — Parallel and Pipelined HTTP GET Utility.
+- [hub](hub-2.md) — wrap git commands with additional functionality to interact with github from the terminal.
+- [immortal](immortal.md) — \nix cross-platform (OS agnostic) supervisor.
+- [jet](jet-3.md) — Just Edit Text: a fast and powerful tool for finding and replacing file content and names using regular expressions.
+- [jsend](jsend.md) — JSend's implementation written in Go.
+- [json-log-viewer](json-log-viewer.md) — Interactive viewer for JSON logs.
+- [jump](jump.md) — Jump helps you navigate faster by learning your habits.
+- [just](just.md) — Just a collection of useful functions for working with generic data structures.
+- [koazee](koazee.md) — Library inspired in Lazy evaluation and functional programming that takes the hassle out of working with arrays.
+- [LAN Orangutan](lan-orangutan.md) — Network device discovery and inventory with persistent labeling, multi-network scanning, and Tailscale integration.
+- [lang](lang.md) — Generic one-liners to work with variables, slices and maps without boilerplate code.
+- [lets-go](lets-go.md) — Go module that provides common utilities for Cloud Native REST API development. Also contains AWS Specific utilities.
+- [limiters](limiters.md) — Rate limiters for distributed applications in Golang with configurable back-ends and distributed locks.
+- [lo](lo.md) — A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+- [loncha](loncha.md) — A high-performance slice Utilities.
+- [lrserver](lrserver.md) — LiveReload server for Go.
+- [mani](mani.md) — CLI tool to help you manage multiple repositories.
+- [mc](mc.md) — Minio Client provides minimal tools to work with Amazon S3 compatible cloud storage and filesystems.
+- [mergo](mergo.md) — Helper to merge structs and maps in Golang. Useful for configuration default values, avoiding messy if-statements.
+- [mimemagic](mimemagic.md) — Pure Go ultra performant MIME sniffing library/utility.
+- [mimetype](mimetype.md) — Package for MIME type detection based on magic numbers.
+- [minify](minify.md) — Fast minifiers for HTML, CSS, JS, XML, JSON and SVG file formats.
+- [minquery](minquery.md) — MongoDB / mgo.v2 query that supports efficient pagination (cursors to continue listing documents where we left off).
+- [moldova](moldova.md) — Utility for generating random data based on an input template.
+- [mole](mole.md) — cli app to easily create ssh tunnels.
+- [mongo-go-pagination](mongo-go-pagination.md) — Mongodb Pagination for official mongodb/mongo-go-driver package which supports both normal queries and Aggregation pipelines.
+- [mssqlx](mssqlx.md) — Database client library, proxy for any master slave, master master structures. Lightweight and auto balancing in mind.
+- [multitick](multitick.md) — Multiplexor for aligned tickers.
+- [netbug](netbug.md) — Easy remote profiling of your services.
+- [nfdump](nfdump.md) — Read nfdump netflow files.
+- [nostromo](nostromo.md) — CLI for building powerful aliases.
+- [okrun](okrun.md) — go run error steamroller.
+- [olaf](olaf.md) — Twitter Snowflake implemented in Go.
+- [onecache](onecache.md) — Caching library with support for multiple backend stores (Redis, Memcached, filesystem etc).
+- [optional](optional.md) — Optional struct fields and vars.
+- [panicparse](panicparse.md) — Groups similar goroutines and colorizes stack dump.
+- [pattern-match](pattern-match.md) — Pattern matching library.
+- [peco](peco.md) — Simplistic interactive filtering tool.
+- [pgo](pgo.md) — Convenient functions for PHP community.
+- [pm](pm-2.md) — Process (i.e. goroutine) manager with an HTTP API.
+- [pointer](pointer.md) — Package pointer contains helper routines for simplifying the creation of optional fields of basic type.
+- [ptr](ptr.md) — Package that provide functions for simplified creation of pointers from constants of basic types.
+- [rate](rate.md) — High-performance rate limiting library with token bucket and AIMD strategies.
+- [rclient](rclient.md) — Readable, flexible, simple-to-use client for REST APIs.
+- [release](release.md) — CLI for Keep-a-changelog formatted changelogs.
+- [relimpact](relimpact.md) — Fast API compatibility reports for Go projects.
+- [remote-touchpad](remote-touchpad.md) — Control mouse and keyboard from a smartphone.
+- [repeat](repeat.md) — Go implementation of different backoff strategies useful for retrying operations and heartbeating.
+- [request](request-2.md) — Go HTTP Requests for Humans™.
+- [rerun](rerun.md) — Recompiling and rerunning go apps when source changes.
+- [rest-go](rest-go.md) — A package that provide many helpful methods for working with rest api.
+- [retro](retro.md) — Handy retry-on-error library with extensive flexibility (backoff strategies, caps, etc).
+- [retry](retry.md) — The most advanced functional mechanism to perform actions repetitively until successful.
+- [retry](retry-2.md) — A simple but highly configurable retry package for Go.
+- [retry](retry-3.md) — Simple and easy retry mechanism package for Go.
+- [retry](retry-4.md) — A pretty simple library to ensure your work to be done.
+- [retry-go](retry-go.md) — Simple library for retry mechanism.
+- [retry-go](retry-go-2.md) — Retrying made simple and easy for golang.
+- [robustly](robustly.md) — Runs functions resiliently, catching and restarting panics.
+- [rospo](rospo.md) — Simple and reliable ssh tunnels with embedded ssh server in Golang.
+- [scan](scan.md) — Scan golang sql.Rows directly to structs, slices, or primitive types.
+- [scan](scan-2.md) — Scan sql rows into any type powered by generics.
+- [scany](scany.md) — Library for scanning data from a database into Go structs and more.
+- [serve](serve.md) — A static http server anywhere you need.
+- [sesh](sesh.md) — Sesh is a CLI that helps you create and manage tmux sessions quickly and easily using zoxide.
+- [set](set-2.md) — Performant and flexible struct mapping and loose type conversion.
+- [shutdown](shutdown.md) — App shutdown hooks for os.Signal handling.
+- [silk](silk.md) — Read silk netflow files.
+- [slice](slice.md) — Type-safe functions for common Go slice operations.
+- [sliceconv](sliceconv.md) — Slice conversion between primitive types.
+- [slicer](slicer.md) — Makes working with slices easier.
+- [sorty](sorty.md) — Fast Concurrent / Parallel Sorting.
+- [sqlex](sqlex.md) — Drop-in modernization of jmoiron/sqlx with fixed SQL lexer bugs, automatic IN-clause expansion, pluggable hooks, and unified DB/Tx/Conn interfaces.
+- [sqlx](sqlx.md) — provides a set of extensions on top of the excellent built-in database/sql package.
+- [sqlz](sqlz.md) — Extension for the database/sql package, adding named queries, struct scanning, and batch operations.
+- [sshman](sshman.md) — SSH Manager for authorizedkeys files on multiple remote servers.
+- [stacktower](stacktower.md) — Visualize dependency graphs as physical tower structures, inspired by XKCD #2347.
+- [statiks](statiks.md) — Fast, zero-configuration, static HTTP filer server.
+- [Storm](storm.md) — Simple and powerful toolkit for BoltDB.
+- [structs](structs.md) — Implement simple functions to manipulate structs.
+- [throttle](throttle.md) — Throttle is an object that will perform exactly one action per duration.
+- [tik](tik.md) — Simple and easy timing wheel package for Go.
+- [tome](tome.md) — Tome was designed to paginate simple RESTful APIs.
+- [toolbox](toolbox.md) — Slice, map, multimap, struct, function, data conversion utilities. Service router, macro evaluator, tokenizer.
+- [UNIS](unis.md) — Common Architecture™ for String Utilities in Go.
+- [upterm](upterm.md) — A tool for developers to share terminal/tmux sessions securely over the web. It’s perfect for remote pair programming, accessing computers behind…
+- [usql](usql.md) — usql is a universal command-line interface for SQL databases.
+- [util](util.md) — Collection of useful utility functions. (strings, concurrency, manipulations, ...).
+- [watchhttp](watchhttp.md) — Run command periodically and expose latest STDOUT or its rich delta as HTTP endpoint.
+- [wifiqr](wifiqr.md) — Wi-Fi QR Code Generator.
+- [wuzz](wuzz.md) — Interactive cli tool for HTTP inspection.
+- [xferspdy](xferspdy.md) — Xferspdy provides binary diff and patch library in golang.
+- [xpool](xpool.md) — Yet another golang type safe object pool using generics.
+- [yogo](yogo.md) — Check yopmail mails from command line.

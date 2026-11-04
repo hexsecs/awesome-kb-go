@@ -1,0 +1,81 @@
+---
+type: index
+title: "Testing / Testing Frameworks"
+---
+
+# Testing / Testing Frameworks
+
+- [apitest](apitest.md) — Simple and extensible behavioural testing library for REST based services or HTTP handlers that supports mocking external http calls and rendering of…
+- [arch-go](arch-go.md) — Architecture testing tool for Go projects.
+- [assay](assay.md) — Framework-agnostic evaluation library for testing Go agents and MCP servers with deterministic checks, CI-ready exit codes, and zero-code YAML-based testing.
+- [assert](assert.md) — Basic Assertion Library used along side native go testing, with building blocks for custom assertions.
+- [axiom](axiom.md) — Composable Go test framework with fixtures, hooks, retries, metadata, plugins, and parallel execution.
+- [baloo](baloo.md) — Expressive and versatile end-to-end HTTP API testing made easy.
+- [be](be.md) — The minimalist generic test assertion library.
+- [biff](biff.md) — Bifurcation testing framework, BDD compatible.
+- [charlatan](charlatan.md) — Tool to generate fake interface implementations for tests.
+- [commander](commander-2.md) — Tool for testing cli applications on windows, linux and osx.
+- [coverage](coverage.md) — A simple Web UI for Go test coverage, and the go-test-coverage-html-report reusable GitHub Action.
+- [cupaloy](cupaloy.md) — Simple snapshot testing addon for your test framework.
+- [dbcleaner](dbcleaner.md) — Clean database for testing purpose, inspired by databasecleaner in Ruby.
+- [dft](dft.md) — Lightweight, zero dependency docker containers for testing (or more).
+- [dsunit](dsunit.md) — Datastore testing for SQL, NoSQL, structured files.
+- [embedded-postgres](embedded-postgres.md) — Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test.
+- [endly](endly.md) — Declarative end to end functional testing.
+- [envite](envite.md) — Dev and testing environment management framework.
+- [fixenv](fixenv.md) — Fixture manage engine, inspired by pytest fixtures.
+- [flute](flute.md) — HTTP client testing framework.
+- [frisby](frisby.md) — REST API testing framework.
+- [gherkingen](gherkingen.md) — BDD boilerplate generator and framework.
+- [ginkgo](ginkgo.md) — BDD Testing Framework for Go.
+- [gnomock](gnomock.md) — integration testing with real dependencies (database, cache, even Kubernetes or AWS) running in Docker, without mocks.
+- [go-carpet](go-carpet.md) — Tool for viewing test coverage in terminal.
+- [go-cmp](go-cmp.md) — Package for comparing Go values in tests.
+- [go-hit](go-hit.md) — Hit is an http integration test framework written in golang.
+- [go-httpbin](go-httpbin.md) — HTTP testing and debugging tool with various endpoints for client testing.
+- [go-mutesting](go-mutesting.md) — Mutation testing for Go with CI quality gates, coverage-aware MSI, baseline tracking, and git-diff filtering.
+- [go-mysql-test-container](go-mysql-test-container.md) — Golang MySQL testcontainer to help with MySQL integration testing.
+- [go-snaps](go-snaps.md) — Jest-like snapshot testing in Golang.
+- [go-test-coverage](go-test-coverage-2.md) — Tool that reports coverage of files below set threshold.
+- [go-testdeep](go-testdeep.md) — Extremely flexible golang deep comparison, extends the go testing package.
+- [go-testing](go-testing.md) — Go testing extension, that allows a simple setup of strongly isolated unit, component, and integration test providing advanced mock support extending gomock…
+- [go-testpredicate](go-testpredicate.md) — Test predicate style assertions library with extensive diagnostics output.
+- [go-vcr](go-vcr.md) — Record and replay your HTTP interactions for fast, deterministic and accurate tests.
+- [goblin](goblin.md) — Mocha like testing framework of Go.
+- [goc](goc.md) — Goc is a comprehensive coverage testing system for The Go Programming Language.
+- [gocheck](gocheck.md) — More advanced testing framework alternative to gotest.
+- [GoConvey](goconvey.md) — BDD-style framework with web UI and live reload.
+- [gocrest](gocrest.md) — Composable hamcrest-like matchers for Go assertions.
+- [godog](godog.md) — Cucumber BDD framework for Go.
+- [gofight](gofight.md) — API Handler Testing for Golang Router framework.
+- [gogiven](gogiven.md) — YATSPEC-like BDD testing framework for Go.
+- [gomatch](gomatch.md) — library created for testing JSON against patterns.
+- [gomega](gomega.md) — Rspec like matcher/assertion library.
+- [gospecify](gospecify.md) — This provides a BDD syntax for testing your Go code. It should be familiar to anybody who has used libraries such as rspec.
+- [gosuite](gosuite.md) — Brings lightweight test suites with setup/teardown facilities to testing by leveraging Go1.7's Subtests.
+- [got](got-2.md) — An enjoyable golang test framework.
+- [gotest.tools](gotest-tools.md) — A collection of packages to augment the go testing package and support common patterns.
+- [Hamcrest](hamcrest.md) — fluent framework for declarative Matcher objects that, when applied to input values, produce self-describing results.
+- [httper](httper.md) — CLI runner for JetBrains .http files with scripting, assertions, gRPC, and load testing.
+- [httpexpect](httpexpect.md) — Concise, declarative, and easy to use end-to-end HTTP and REST API testing.
+- [is](is.md) — Professional lightweight testing mini-framework for Go.
+- [jsonassert](jsonassert.md) — Package for verifying that your JSON payloads are serialized correctly.
+- [keploy](keploy.md) — Generate Testcase and Data Mocks from API calls automatically.
+- [omg.testingtools](omg-testingtools.md) — The simple library for change a values of private fields for testing.
+- [prettycov](prettycov.md) — Draws a Go coverage profile as a package tree with a total on every row.
+- [restit](restit.md) — Go micro framework to help writing RESTful API integration test.
+- [schema](schema-2.md) — Quick and easy expression matching for JSON schemas used in requests and responses.
+- [should](should.md) — Testing library with zero dependencies, detailed struct diffs and human-readable error messages.
+- [stop-and-go](stop-and-go.md) — Testing helper for concurrency.
+- [testcase](testcase.md) — Idiomatic testing framework for Behavior Driven Development.
+- [testcerts](testcerts.md) — Dynamically generate self-signed certificates and certificate authorities within your test functions.
+- [testcontainers-go](testcontainers-go.md) — A Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API…
+- [testfixtures](testfixtures.md) — A helper for Rails' like test fixtures to test database applications.
+- [Testify](testify.md) — Sacred extension to the standard go testing package.
+- [Testo](testo.md) — Plugin-based testing framework with suites, parallel tests, hooks and parametrization. Inspired by Pytest.
+- [testsql](testsql.md) — Generate test data from SQL files before testing and clear it after finished.
+- [testza](testza.md) — Full-featured test framework with nice colorized output.
+- [tparse](tparse.md) — CLI tool for summarizing go test output. Pipe friendly. Compatible with go test flags.
+- [trial](trial.md) — Quick and easy extendable assertions without introducing much boilerplate.
+- [Tt](tt.md) — Simple and colorful test tools.
+- [wstest](wstest.md) — Websocket client for unit-testing a websocket http.Handler.

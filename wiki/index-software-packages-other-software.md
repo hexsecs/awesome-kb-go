@@ -1,0 +1,98 @@
+---
+type: index
+title: "Software Packages / Other Software"
+---
+
+# Software Packages / Other Software
+
+- [Backrest](backrest.md) — Web-based UI and orchestrator for restic backup.
+- [Better Go Playground](better-go-playground.md) — Go playground with syntax highlight, code completion and other features.
+- [blocky](blocky.md) — Fast and lightweight DNS proxy as ad-blocker for local network with many features.
+- [bluetuith](bluetuith.md) — TUI Bluetooth manager for Linux.
+- [borg](borg.md) — Terminal based search engine for bash snippets.
+- [boxed](boxed.md) — Dropbox based blog engine.
+- [Chapar](chapar.md) — Chapar is a cross-platform Postman alternative built with go, aims to help developers to test their api endpoints. it support http and grpc protocols.
+- [Cherry](cherry.md) — Tiny webchat server in Go.
+- [chicha-isotope-map](chicha-isotope-map.md) — Self-hosted public radiation map for importing, analyzing, and visualizing measurement tracks.
+- [Circuit](circuit-3.md) — Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and…
+- [claude-grep](claude-grep.md) — Search Claude Code session history with regex and semantic (vector) search.
+- [Comcast](comcast.md) — Simulate bad network connections.
+- [confd](confd.md) — Manage local application configuration files using templates and data from etcd or consul.
+- [crawley](crawley.md) — Web scraper/crawler for cli.
+- [croc](croc.md) — Easily and securely send files or folders from one computer to another.
+- [CrunchyCleaner](crunchycleaner.md) — A lightweight, software cache cleanup tool for Windows & Linux.
+- [dispositio](dispositio.md) — Terminal tool for planning large projects in simple markdown.
+- [Documize](documize.md) — Modern wiki software that integrates data from SaaS tools.
+- [dp](dp.md) — Through SDK for data exchange with blockchain, developers can get easy access to DAPP development.
+- [drive](drive.md) — Google Drive client for the commandline.
+- [Duplicacy](duplicacy.md) — A cross-platform network and cloud backup tool based on the idea of lock-free deduplication.
+- [fjira](fjira.md) — A fuzzy-search based terminal UI application for Attlasian Jira
+- [Gebug](gebug.md) — A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly.
+- [gfile](gfile.md) — Securely transfer files between two computers, without any third party, over WebRTC.
+- [Go Package Store](go-package-store.md) — App that displays updates for the Go packages in your GOPATH.
+- [go-peerflix](go-peerflix.md) — Video streaming torrent client.
+- [goblin](goblin-3.md) — Cloud builder for CLI's written in go lang
+- [GoBoy](goboy.md) — Nintendo Game Boy Color emulator written in Go.
+- [gocc](gocc.md) — Gocc is a compiler kit for Go written in Go.
+- [GoDocTooltip](godoctooltip.md) — Chrome extension for Go Doc sites, which shows function description as tooltip at function list.
+- [Gokapi](gokapi.md) — Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
+- [GoLand](goland.md) — Full featured cross-platform Go IDE.
+- [GoNB](gonb.md) — Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
+- [GooseForum](gooseforum.md) — Self-hosted forum platform built with Go, Vue, and Tailwind CSS.
+- [Gor](gor.md) — Http traffic replication tool, for replaying traffic from production to stage/dev environments in real-time.
+- [gotermfx](gotermfx.md) — Zero-dependency terminal animation CLI with built-in effects and a small API for custom animations.
+- [Guora](guora.md) — A self-hosted Quora like web application written in Go.
+- [GURL](gurl.md) — When CURL says your SSL library is too old — use GURL. One file. Zero SSL dependencies.
+- [hoofli](hoofli.md) — Generate PlantUML diagrams from Chrome or Firefox network inspections.
+- [hotswap](hotswap.md) — A complete solution to reload your go code without restarting your server, interrupting or blocking any ongoing procedure.
+- [hugo](hugo.md) — Fast and Modern Static Website Engine.
+- [ide](ide.md) — Browser accessible IDE. Designed for Go with Go.
+- [joincap](joincap.md) — Command-line utility for merging multiple pcap files together.
+- [JuiceFS](juicefs.md) — Distributed POSIX file system built on top of Redis and AWS S3.
+- [Juju](juju.md) — Cloud-agnostic service deployment and orchestration - supports EC2, Azure, Openstack, MAAS and more.
+- [KeibiDrop](keibidrop.md) — On-demand peer-to-peer filesystem that mounts a remote folder and hides link latency with read-ahead, end-to-end encrypted with hybrid X25519 and ML-KEM-1024.
+- [Layli](layli.md) — Draw pretty layout diagrams as code.
+- [Leaps](leaps.md) — Pair programming service using Operational Transforms.
+- [lgo](lgo.md) — Interactive Go programming with Jupyter. It supports code completion, code inspection and 100% Go compatibility.
+- [LightCMS](lightcms.md) — Self-hosted content management system with static page generation, role-based access control, and an MCP server for agent-driven content operations.
+- [limetext](limetext.md) — Lime Text is a powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text.
+- [LiteIDE](liteide.md) — LiteIDE is a simple, open source, cross-platform Go IDE.
+- [mac-cleanup-go](mac-cleanup-go.md) — Preview-first TUI for cleaning macOS caches, logs, and temporary files.
+- [mdv](mdv.md) — CLI tool that renders Markdown files in the browser with live reload, GFM, syntax highlighting, Mermaid diagrams, and PDF export.
+- [mockingjay](mockingjay.md) — Fake HTTP servers and consumer driven contracts from one configuration file. You can also make the server randomly misbehave to help do more realistic…
+- [myLG](mylg.md) — Command Line Network Diagnostic tool written in Go.
+- [naclpipe](naclpipe.md) — Simple NaCL EC25519 based crypto pipe tool written in Go.
+- [Neo-cowsay](neo-cowsay.md) — 🐮 cowsay is reborn. for a New Era.
+- [nes](nes.md) — Nintendo Entertainment System (NES) emulator written in Go.
+- [onWatch](onwatch.md) — Monitor AI API quotas across providers locally with historical tracking, alerts, and a web dashboard to avoid surprise throttling and budget overruns.
+- [Orbit](orbit.md) — A simple tool for running commands and generating files from templates.
+- [peg](peg.md) — Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
+- [Plakar](plakar.md) — An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
+- [Plik](plik.md) — Plik is a temporary file upload system (Wetransfer like) in Go.
+- [portal](portal.md) — Portal is a quick and easy command-line file transfer utility from any computer to another.
+- [restic](restic.md) — De-duplicating backup program.
+- [sake](sake.md) — sake is a command runner for local and remote hosts.
+- [scc](scc.md) — Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
+- [ScheduleGate](schedulegate.md) — DCMA 14-point schedule assessment CLI for MS Project Excel/CSV exports.
+- [Seaweed File System](seaweed-file-system.md) — Fast, Simple and Scalable Distributed File System with O(1) disk seek.
+- [shell2http](shell2http.md) — Executing shell commands via http server (for prototyping or remote control).
+- [SiteBrush](sitebrush.md) — Keep the website. Retire WordPress. Turn an existing website into editable static HTML without rebuilding its design.
+- [Snitch](snitch.md) — Simple way to notify your team and many tools when someone has deployed any application via Tsuru.
+- [sonic](sonic-2.md) — Sonic is a Go Blogging Platform. Simple and Powerful.
+- [spotify-screensaver](spotify-screensaver.md) — Desktop screensaver for Spotify with digital OLED clock, canvas audio visualizer, and MPRIS controls.
+- [Stack Up](stack-up.md) — Stack Up, a super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
+- [stew](stew.md) — An independent package manager for compiled binaries.
+- [syncthing](syncthing.md) — Open, decentralized file synchronization tool and protocol.
+- [tcpdog](tcpdog.md) — eBPF based TCP observability.
+- [tinycare-tui](tinycare-tui.md) — Small terminal app that shows git commits from the last 24 hours and week, current weather, some self care advice, a joke, and you current todo list tasks.
+- [tldx](tldx.md) — Bulk domain availability checker using RDAP, DNS, and WHOIS fallback with keyword permutation generation.
+- [toxiproxy](toxiproxy.md) — Proxy to simulate network and system conditions for automated tests.
+- [tsuru](tsuru.md) — Extensible and open source Platform as a Service software.
+- [untis-go](untis-go.md) — Fast, native WebUntis desktop client for students and teachers. Sidebar navigation, timetables, homework, absences & messages. AES-256-GCM encrypted…
+- [vaku](vaku.md) — CLI & API for folder-based functions in Vault like copy, move, and search.
+- [vFlow](vflow.md) — High-performance, scalable and reliable IPFIX, sFlow and Netflow collector.
+- [Wave Terminal](wave-terminal.md) — Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
+- [wellington](wellington.md) — Sass project management tool, extends the language with sprite functions (like Compass).
+- [woke](woke.md) — Detect non-inclusive language in your source code.
+- [yai](yai.md) — AI powered terminal assistant.
+- [zs](zs.md) — an extremely minimal static site generator.

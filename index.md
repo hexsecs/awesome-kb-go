@@ -1,0 +1,140 @@
+# Go (Awesome KB)
+
+Generated from the canon list. Entries remain at their recorded depth.
+
+## Categories
+
+- [Actor Model](wiki/index-actor-model.md) — 5 entries
+- [Artificial Intelligence](wiki/index-artificial-intelligence.md) — 37 entries
+- [Audio and Music](wiki/index-audio-and-music.md) — 20 entries
+- [Authentication and Authorization](wiki/index-authentication-and-authorization.md) — 42 entries
+- [Blockchain](wiki/index-blockchain.md) — 13 entries
+- [Bot Building](wiki/index-bot-building.md) — 18 entries
+- [Build Automation](wiki/index-build-automation.md) — 14 entries
+- [Command Line / Advanced Console UIs](wiki/index-command-line-advanced-console-uis.md) — 46 entries
+- [Command Line / Standard CLI](wiki/index-command-line-standard-cli.md) — 58 entries
+- [Configuration](wiki/index-configuration.md) — 67 entries
+- [Continuous Integration](wiki/index-continuous-integration.md) — 17 entries
+- [CSS Preprocessors](wiki/index-css-preprocessors.md) — 2 entries
+- [Data Integration Frameworks](wiki/index-data-integration-frameworks.md) — 4 entries
+- [Data Structures and Algorithms / Bit-packing and Compression](wiki/index-data-structures-and-algorithms-bit-packing-and-compression.md) — 6 entries
+- [Data Structures and Algorithms / Bit Sets](wiki/index-data-structures-and-algorithms-bit-sets.md) — 2 entries
+- [Data Structures and Algorithms / Bloom and Cuckoo Filters](wiki/index-data-structures-and-algorithms-bloom-and-cuckoo-filters.md) — 9 entries
+- [Data Structures and Algorithms / Data Structure and Algorithm Collections](wiki/index-data-structures-and-algorithms-data-structure-and-algorithm-collections.md) — 4 entries
+- [Data Structures and Algorithms / Iterators](wiki/index-data-structures-and-algorithms-iterators.md) — 4 entries
+- [Data Structures and Algorithms / Maps](wiki/index-data-structures-and-algorithms-maps.md) — 7 entries
+- [Data Structures and Algorithms / Miscellaneous Data Structures and Algorithms](wiki/index-data-structures-and-algorithms-miscellaneous-data-structures-and-algorithms.md) — 20 entries
+- [Data Structures and Algorithms / Nullable Types](wiki/index-data-structures-and-algorithms-nullable-types.md) — 3 entries
+- [Data Structures and Algorithms / Queues](wiki/index-data-structures-and-algorithms-queues.md) — 9 entries
+- [Data Structures and Algorithms / Sets](wiki/index-data-structures-and-algorithms-sets.md) — 4 entries
+- [Data Structures and Algorithms / Text Analysis](wiki/index-data-structures-and-algorithms-text-analysis.md) — 10 entries
+- [Data Structures and Algorithms / Trees](wiki/index-data-structures-and-algorithms-trees.md) — 7 entries
+- [Data Structures and Algorithms / Pipes](wiki/index-data-structures-and-algorithms-pipes.md) — 4 entries
+- [Database / Caches](wiki/index-database-caches.md) — 31 entries
+- [Database / Databases Implemented in Go](wiki/index-database-databases-implemented-in-go.md) — 52 entries
+- [Database / Database Schema Migration](wiki/index-database-database-schema-migration.md) — 23 entries
+- [Database / Database Tools](wiki/index-database-database-tools.md) — 28 entries
+- [Database / SQL Query Builders](wiki/index-database-sql-query-builders.md) — 31 entries
+- [Database Drivers / Interfaces to Multiple Backends](wiki/index-database-drivers-interfaces-to-multiple-backends.md) — 6 entries
+- [Database Drivers / Relational Database Drivers](wiki/index-database-drivers-relational-database-drivers.md) — 22 entries
+- [Database Drivers / NoSQL Database Drivers](wiki/index-database-drivers-nosql-database-drivers.md) — 29 entries
+- [Database Drivers / Search and Analytic Databases](wiki/index-database-drivers-search-and-analytic-databases.md) — 9 entries
+- [Date and Time](wiki/index-date-and-time.md) — 25 entries
+- [Distributed Systems](wiki/index-distributed-systems.md) — 68 entries
+- [Dynamic DNS](wiki/index-dynamic-dns.md) — 3 entries
+- [Email](wiki/index-email.md) — 27 entries
+- [Embeddable Scripting Languages](wiki/index-embeddable-scripting-languages.md) — 24 entries
+- [Error Handling](wiki/index-error-handling.md) — 21 entries
+- [File Handling](wiki/index-file-handling.md) — 29 entries
+- [Financial](wiki/index-financial.md) — 40 entries
+- [Forms](wiki/index-forms.md) — 12 entries
+- [Functional](wiki/index-functional.md) — 11 entries
+- [Game Development](wiki/index-game-development.md) — 27 entries
+- [Generators](wiki/index-generators.md) — 17 entries
+- [Geographic](wiki/index-geographic.md) — 18 entries
+- [Go Compilers](wiki/index-go-compilers.md) — 7 entries
+- [Goroutines](wiki/index-goroutines.md) — 54 entries
+- [GUI](wiki/index-gui.md) — 31 entries
+- [Hardware](wiki/index-hardware.md) — 9 entries
+- [Images](wiki/index-images.md) — 45 entries
+- [IoT (Internet of Things)](wiki/index-iot-internet-of-things.md) — 14 entries
+- [Job Scheduler](wiki/index-job-scheduler.md) — 24 entries
+- [JSON](wiki/index-json.md) — 40 entries
+- [Logging](wiki/index-logging.md) — 74 entries
+- [Machine Learning](wiki/index-machine-learning.md) — 41 entries
+- [Messaging](wiki/index-messaging.md) — 60 entries
+- [Microsoft Office](wiki/index-microsoft-office.md) — 1 entries
+- [Microsoft Office / Microsoft Excel](wiki/index-microsoft-office-microsoft-excel.md) — 6 entries
+- [Microsoft Office / Microsoft Word](wiki/index-microsoft-office-microsoft-word.md) — 1 entries
+- [Miscellaneous / Dependency Injection](wiki/index-miscellaneous-dependency-injection.md) — 27 entries
+- [Miscellaneous / Project Layout](wiki/index-miscellaneous-project-layout.md) — 22 entries
+- [Miscellaneous / Strings](wiki/index-miscellaneous-strings.md) — 10 entries
+- [Miscellaneous / Uncategorized](wiki/index-miscellaneous-uncategorized.md) — 60 entries
+- [Natural Language Processing / Language Detection](wiki/index-natural-language-processing-language-detection.md) — 5 entries
+- [Natural Language Processing / Morphological Analyzers](wiki/index-natural-language-processing-morphological-analyzers.md) — 17 entries
+- [Natural Language Processing / Slugifiers](wiki/index-natural-language-processing-slugifiers.md) — 3 entries
+- [Natural Language Processing / Tokenizers](wiki/index-natural-language-processing-tokenizers.md) — 9 entries
+- [Natural Language Processing / Translation](wiki/index-natural-language-processing-translation.md) — 9 entries
+- [Natural Language Processing / Transliteration](wiki/index-natural-language-processing-transliteration.md) — 4 entries
+- [Networking](wiki/index-networking.md) — 90 entries
+- [Networking / HTTP Clients](wiki/index-networking-http-clients.md) — 26 entries
+- [OpenGL](wiki/index-opengl.md) — 6 entries
+- [ORM](wiki/index-orm.md) — 26 entries
+- [Package Management](wiki/index-package-management.md) — 4 entries
+- [Performance](wiki/index-performance.md) — 10 entries
+- [Query Language](wiki/index-query-language.md) — 18 entries
+- [Reflection](wiki/index-reflection.md) — 9 entries
+- [Resource Embedding](wiki/index-resource-embedding.md) — 4 entries
+- [Science and Data Analysis](wiki/index-science-and-data-analysis.md) — 42 entries
+- [Security](wiki/index-security.md) — 72 entries
+- [Serialization](wiki/index-serialization.md) — 21 entries
+- [Server Applications](wiki/index-server-applications.md) — 39 entries
+- [Stream Processing](wiki/index-stream-processing.md) — 10 entries
+- [Template Engines](wiki/index-template-engines.md) — 20 entries
+- [Testing / Testing Frameworks](wiki/index-testing-testing-frameworks.md) — 74 entries
+- [Testing / Mock](wiki/index-testing-mock.md) — 23 entries
+- [Testing / Fuzzing and delta-debugging/reducing/shrinking](wiki/index-testing-fuzzing-and-delta-debugging-reducing-shrinking.md) — 2 entries
+- [Testing / Selenium and browser control tools](wiki/index-testing-selenium-and-browser-control-tools.md) — 6 entries
+- [Testing / Fail injection](wiki/index-testing-fail-injection.md) — 1 entries
+- [Text Processing / Formatters](wiki/index-text-processing-formatters.md) — 8 entries
+- [Text Processing / Markup Languages](wiki/index-text-processing-markup-languages.md) — 16 entries
+- [Text Processing / Parsers/Encoders/Decoders](wiki/index-text-processing-parsers-encoders-decoders.md) — 24 entries
+- [Text Processing / Regular Expressions](wiki/index-text-processing-regular-expressions.md) — 6 entries
+- [Text Processing / Sanitation](wiki/index-text-processing-sanitation.md) — 2 entries
+- [Text Processing / Scrapers](wiki/index-text-processing-scrapers.md) — 10 entries
+- [Text Processing / RSS](wiki/index-text-processing-rss.md) — 1 entries
+- [Text Processing / Utility/Miscellaneous](wiki/index-text-processing-utility-miscellaneous.md) — 9 entries
+- [Third-party APIs](wiki/index-third-party-apis.md) — 115 entries
+- [Utilities](wiki/index-utilities.md) — 192 entries
+- [UUID](wiki/index-uuid.md) — 15 entries
+- [Validation](wiki/index-validation.md) — 18 entries
+- [Version Control](wiki/index-version-control.md) — 11 entries
+- [Video](wiki/index-video.md) — 16 entries
+- [Web Frameworks](wiki/index-web-frameworks.md) — 44 entries
+- [Web Frameworks / Middlewares / Actual middlewares](wiki/index-web-frameworks-middlewares-actual-middlewares.md) — 13 entries
+- [Web Frameworks / Middlewares / Libraries for creating HTTP middlewares](wiki/index-web-frameworks-middlewares-libraries-for-creating-http-middlewares.md) — 11 entries
+- [Web Frameworks / Routers](wiki/index-web-frameworks-routers.md) — 29 entries
+- [WebAssembly](wiki/index-webassembly.md) — 8 entries
+- [Webhooks Server](wiki/index-webhooks-server.md) — 4 entries
+- [Windows](wiki/index-windows.md) — 4 entries
+- [Workflow Frameworks](wiki/index-workflow-frameworks.md) — 8 entries
+- [XML](wiki/index-xml.md) — 6 entries
+- [Zero Trust](wiki/index-zero-trust.md) — 5 entries
+- [Code Analysis](wiki/index-code-analysis.md) — 38 entries
+- [Editor Plugins](wiki/index-editor-plugins.md) — 13 entries
+- [Go Generate Tools](wiki/index-go-generate-tools.md) — 14 entries
+- [Go Tools](wiki/index-go-tools.md) — 24 entries
+- [Software Packages / DevOps Tools](wiki/index-software-packages-devops-tools.md) — 111 entries
+- [Software Packages / Other Software](wiki/index-software-packages-other-software.md) — 91 entries
+- [Benchmarks](wiki/index-benchmarks.md) — 15 entries
+- [Conferences](wiki/index-conferences.md) — 15 entries
+- [E-Books / E-books for purchase](wiki/index-e-books-e-books-for-purchase.md) — 15 entries
+- [E-Books / Free e-books](wiki/index-e-books-free-e-books.md) — 20 entries
+- [Gophers](wiki/index-gophers.md) — 11 entries
+- [Meetups](wiki/index-meetups.md) — 65 entries
+- [Style Guides](wiki/index-style-guides.md) — 8 entries
+- [Social Media / Twitter](wiki/index-social-media-twitter.md) — 5 entries
+- [Social Media / Reddit](wiki/index-social-media-reddit.md) — 1 entries
+- [Websites](wiki/index-websites.md) — 33 entries
+- [Websites / Tutorials](wiki/index-websites-tutorials.md) — 48 entries
+- [Websites / Guided Learning](wiki/index-websites-guided-learning.md) — 4 entries

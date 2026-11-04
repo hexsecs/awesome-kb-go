@@ -1,0 +1,79 @@
+---
+type: index
+title: "Security"
+---
+
+# Security
+
+- [acme-proxy](acme-proxy.md) — Solve ACME http-01 challenge without opening port 80 to the internet, obtain certs from an external certificate authority.
+- [acmetool](acmetool.md) — ACME (Let's Encrypt) client tool with automatic renewal.
+- [acopw-go](acopw-go.md) — Small cryptographically secure password generator package for Go.
+- [acra](acra.md) — Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection…
+- [aes-ctr-drbg](aes-ctr-drbg.md) — A Deterministic Random Bit Generator based on AES in Counter mode (AES-CTR-DRBG) as specified in NIST SP 800-90A.
+- [age](age.md) — A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+- [argon2-hashing](argon2-hashing.md) — light wrapper around Go's argon2 package that closely mirrors with Go's standard library Bcrypt and simple-scrypt package.
+- [autocert](autocert.md) — Auto provision Let's Encrypt certificates and start a TLS server.
+- [BadActor](badactor.md) — In-memory, application-driven jailer built in the spirit of fail2ban.
+- [beelzebub](beelzebub.md) — A secure low code honeypot framework, leveraging AI for System Virtualization.
+- [booster](booster.md) — Fast initramfs generator with full-disk encryption support.
+- [caddy-waf](caddy-waf.md) — Web Application Firewall middleware for the Caddy server, with a regex rule engine, anomaly scoring, IP/DNS/ASN/country blacklists and rate limiting.
+- [Cameradar](cameradar.md) — Tool and library to remotely hack RTSP streams from surveillance cameras.
+- [canery](canery.md) — Minimal, stateless authorization engine with a pluggable evaluation model.
+- [certificates](certificates.md) — An opinionated tool for generating tls certificates.
+- [certifier](certifier.md) — Library and CLI for generating and validating X.509 certificates, certificate authorities, CRLs, and OCSP responses.
+- [CertMagic](certmagic.md) — Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal.
+- [Coraza](coraza.md) — Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
+- [coraza-rule-validator](coraza-rule-validator.md) — Standalone CLI tool to validate ModSecurity and Coraza SecLang WAF rules before production deployment.
+- [Crenox](crenox.md) — Zero-dependency pre-commit secret scanner using Aho-Corasick for high-performance credentials leak detection.
+- [deidentify](deidentify.md) — Deterministic, format-preserving removal of personally identifiable information from text and structured data.
+- [dongle](dongle.md) — A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption.
+- [dotlock](dotlock.md) — Encrypted .env vault manager with interactive TUI for managing secrets across multiple environments and profiles.
+- [encid](encid.md) — Encode and decode encrypted integer IDs.
+- [entpassgen](entpassgen.md) — Entropy Password Generator with extensive command line arguments to generate random strings securely including digits, passwords, and passwords built using…
+- [FCaptcha](fcaptcha.md) — Self-hosted CAPTCHA server and Go client that detects bots, AI agents, and headless browsers through behavioral analysis and proof of work.
+- [firewalld-rest](firewalld-rest.md) — A rest application to dynamically update firewalld rules on a linux server.
+- [fort](fort.md) — Audits macOS security settings across 16 checks, reports a score, and fixes issues where it safely can. Single binary, installable via Homebrew.
+- [go-generate-password](go-generate-password.md) — Password generator that can be used on the cli or as a library.
+- [go-htpasswd](go-htpasswd.md) — Apache htpasswd Parser for Go.
+- [go-password-validator](go-password-validator.md) — Password validator based on raw cryptographic entropy values.
+- [go-peer](go-peer.md) — A software library for creating secure and anonymous decentralized systems.
+- [go-yara](go-yara.md) — Go Bindings for YARA, the "pattern matching swiss knife for malware researchers (and everyone else)".
+- [goArgonPass](goargonpass.md) — Argon2 password hash and verification designed to be compatible with existing Python and PHP implementations.
+- [goSecretBoxPassword](gosecretboxpassword.md) — A probably paranoid package for securely hashing and encrypting passwords.
+- [gost-crypto](gost-crypto.md) — Go library for Russian GOST cryptographic standards (digital signatures, Streebog hash, Kuznechik cipher, MGM AEAD) backed by OpenSSL gost-engine.
+- [grim](grim.md) — Fast and secure CLI tool for managing encrypted Markdown note vaults in volatile memory.
+- [gspy](gspy.md) — Forensic goroutine-to-syscall inspector for live Go processes.
+- [Interpol](interpol.md) — Rule-based data generator for fuzzing and penetration testing.
+- [leakhound](leakhound.md) — Static analysis tool to detect accidental logging of sensitive struct fields, preventing data leaks in logs.
+- [lego](lego.md) — Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
+- [luks.go](luks-go.md) — Pure Golang library to manage LUKS partitions.
+- [mcprobe](mcprobe.md) — Security scanner for MCP servers with prompt injection detection, tool shadowing, and SARIF output.
+- [memguard](memguard.md) — A pure Go library for handling sensitive values in memory.
+- [mist](mist.md) — Asymmetric-key audio steganography library that hides encrypted messages inside compressed audio using X25519 and ChaCha20-Poly1305.
+- [multikey](multikey.md) — An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm.
+- [nacl](nacl.md) — Go implementation of the NaCL set of API's.
+- [nurago/pkg/redact](nurago-pkg-redact.md) — Removes secrets from log lines and HTTP dumps in a single pass, covering headers, JSON, XML, URL-encoded data, JWTs, PEM keys, and vendor tokens.
+- [optimus-go](optimus-go.md) — ID hashing and Obfuscation using Knuth's Algorithm.
+- [osv-scanner](osv-scanner.md) — Vulnerability scanner written in Go which uses the data provided by OSV.
+- [passlib](passlib.md) — Futureproof password hashing library.
+- [passwap](passwap.md) — Provides a unified implementation between different password hashing algorithms
+- [pii-shield](pii-shield.md) — Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
+- [pm](pm.md) — Unix-style password manager written in Go to save your data with OpenPGP encryption.
+- [procscope](procscope.md) — Process-scoped runtime investigator using eBPF to trace process lifecycle, file activity, and network connections.
+- [PwnedCheck](pwnedcheck.md) — Command-line tool to check passwords against Have I Been Pwned breaches, with Bitwarden export support.
+- [qrand](qrand.md) — Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.
+- [Razify](razify.md) — CLI to scan, validate and audit .env files for leaked secrets and environment drift.
+- [redact](redact.md) — Redact sensitive information from slog-based logs using a configurable pipeline.
+- [SafeDep/vet](safedep-vet.md) — Protect against malicious open source packages.
+- [secret](secret.md) — Prevent your secrets from leaking into logs, std\ etc.
+- [secretgenerator](secretgenerator.md) — CSPRNG-backed credential generator with a versioned JSON schema for passwords, passphrases, secrets, API keys, and PINs.
+- [secure](secure.md) — HTTP middleware for Go that facilitates some quick security wins.
+- [secureio](secureio.md) — An keyexchanging+authenticating+encrypting wrapper and multiplexer for io.ReadWriteCloser based on XChaCha20-poly1305, ECDH and ED25519.
+- [simple-scrypt](simple-scrypt.md) — Scrypt package with a simple, obvious API and automatic cost calibration built-in.
+- [ssh-vault](ssh-vault.md) — encrypt/decrypt using ssh keys.
+- [sslmgr](sslmgr.md) — SSL certificates made easy with a high level wrapper around acme/autocert.
+- [teler-waf](teler-waf.md) — teler-waf is a Go HTTP middleware that provide teler IDS functionality to protect against web-based attacks and improve the security of Go-based web…
+- [themis](themis.md) — high-level cryptographic library for solving typical data security tasks (secure data storage, secure messaging, zero-knowledge proof authentication)…
+- [urusai](urusai.md) — Urusai ("noisy" in Japanese) is a Go implementation of a random HTTP/DNS traffic noise generator that helps protect privacy by creating digital smokescreens…
+- [veil](veil.md) — Local HTTPS proxy that hides API credentials from AI coding agents. OS keychain integration, format-aware placeholders, SQLite audit log.
+- [y509](y509.md) — TUI for X.509 certificate chains that reports whether a chain verifies and, separately, whether a server served it correctly.

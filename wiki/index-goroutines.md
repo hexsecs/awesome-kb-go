@@ -1,0 +1,61 @@
+---
+type: index
+title: "Goroutines"
+---
+
+# Goroutines
+
+- [anchor](anchor.md) — Library to manage component lifecycle in microservice architectures.
+- [ants](ants.md) — A high-performance and low-cost goroutine pool in Go.
+- [artifex](artifex.md) — Simple in-memory job queue for Golang using worker-based dispatching.
+- [async](async.md) — An asynchronous task package with async/await style for Go.
+- [async](async-2.md) — An alternative sync library for Go (Future, Promise, Locks).
+- [async](async-3.md) — A safe way to execute functions asynchronously, recovering them in case of panic.
+- [async-job](async-job.md) — AsyncJob is an asynchronous queue job manager with light code, clear and speed.
+- [autopool](autopool.md) — Zero-config, auto-scaling worker pool for Go with priority-aware scheduling.
+- [breaker](breaker.md) — Flexible mechanism to make execution flow interruptible.
+- [channelify](channelify.md) — Transform your function to return channels for easy and powerful parallel processing.
+- [conc](conc.md) — conc is your toolbelt for structured concurrency in go, making common tasks easier and safer.
+- [concurrency-limiter](concurrency-limiter.md) — Concurrency limiter with support for timeouts, dynamic priority and context cancellation of goroutines.
+- [conexec](conexec.md) — A concurrent toolkit to help execute funcs concurrently in an efficient and safe way. It supports specifying the overall timeout to avoid blocking and uses…
+- [cyclicbarrier](cyclicbarrier.md) — CyclicBarrier for golang.
+- [execpool](execpool.md) — A pool built around exec.Cmd that spins up a given number of processes in advance and attaches stdin and stdout to them when needed. Very similar to FastCGI…
+- [flowmatic](flowmatic.md) — Structured concurrency made easy.
+- [go-accumulator](go-accumulator.md) — Solution for accumulation of events and their subsequent processing.
+- [go-actor](go-actor.md) — A tiny library for writing concurrent programs using actor model.
+- [go-floc](go-floc.md) — Orchestrate goroutines with ease.
+- [go-flow](go-flow.md) — Control goroutines execution order.
+- [go-future](go-future.md) — A Future/Promise library with generic combinators and a DAG execution engine.
+- [go-tools/multithreading](go-tools-multithreading.md) — Manage a pool of goroutines using this lightweight library with a simple API.
+- [go-trylock](go-trylock.md) — TryLock support on read-write lock for Golang.
+- [go-waitgroup](go-waitgroup.md) — Like sync.WaitGroup with error handling and concurrency control.
+- [go-workerpool](go-workerpool.md) — Inspired from Java Thread Pool, Go WorkerPool aims to control heavy Go Routines.
+- [goccm](goccm.md) — Go Concurrency Manager package limits the number of goroutines that allowed to run concurrently.
+- [gohive](gohive.md) — A highly performant and easy to use Goroutine pool for Go.
+- [gollback](gollback.md) — asynchronous simple function utilities, for managing execution of closures and callbacks.
+- [goscade](goscade.md) — Minimalistic lifecycle orchestrator for Go components with dependency graphs, startup sequencing, readiness coordination, and graceful shutdown.
+- [gowl](gowl.md) — Gowl is a process management and process monitoring tool at once. An infinite worker pool gives you the ability to control the pool and processes and…
+- [goworker](goworker.md) — goworker is a Go-based background worker.
+- [gowp](gowp.md) — gowp is concurrency limiting goroutine pool.
+- [gpool](gpool.md) — manages a resizeable pool of context-aware goroutines to bound concurrency.
+- [grpool](grpool.md) — Lightweight Goroutine pool.
+- [hands](hands.md) — A process controller used to control the execution and return strategies of multiple goroutines.
+- [Hunch](hunch.md) — Hunch provides functions like: All, First, Retry, Waterfall etc., that makes asynchronous flow control more intuitive.
+- [kyoo](kyoo.md) — Provides an unlimited job queue and concurrent worker pools.
+- [neilotoole/errgroup](neilotoole-errgroup.md) — Drop-in alternative to sync/errgroup, limited to a pool of N worker goroutines.
+- [nursery](nursery.md) — Structured concurrency in Go.
+- [oversight](oversight.md) — Oversight is a complete implementation of the Erlang supervision trees.
+- [parallel-fn](parallel-fn.md) — Run functions in parallel.
+- [pond](pond.md) — Minimalistic and High-performance goroutine worker pool written in Go.
+- [pool](pool.md) — Limited consumer goroutine or unlimited goroutine pool for easier goroutine handling and cancellation.
+- [powerlock](powerlock.md) — Named FIFO mutexes with context cancellation, bounded wait queues, watchdog diagnostics, pprof profiles, and Prometheus metrics.
+- [rill](rill.md) — Go toolkit for clean, composable, channel-based concurrency.
+- [routine](routine.md) — routine is a ThreadLocal for go library. It encapsulates and provides some easy-to-use, non-competitive, high-performance goroutine context access…
+- [routine](routine-2.md) — go routine control with context, support: Main, Go, Pool and some useful Executors.
+- [semaphore](semaphore-2.md) — Semaphore pattern implementation with timeout of lock/unlock operations based on channel and context.
+- [semaphore](semaphore-3.md) — Fast resizable semaphore implementation based on CAS (faster than channel-based semaphore implementations).
+- [stl](stl.md) — Software transactional locks based on Software Transactional Memory (STM) concurrency control mechanism.
+- [threadpool](threadpool.md) — Golang threadpool implementation.
+- [tunny](tunny.md) — Goroutine pool for golang.
+- [worker-pool](worker-pool.md) — goworker is a Go simple async worker pool.
+- [workerpool](workerpool.md) — Goroutine pool that limits the concurrency of task execution, not the number of tasks queued.

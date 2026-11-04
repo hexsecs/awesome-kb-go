@@ -1,0 +1,97 @@
+---
+type: index
+title: "Networking"
+---
+
+# Networking
+
+- [arp](arp.md) — Package arp implements the ARP protocol, as described in RFC 826.
+- [bart](bart.md) — Package bart provides a Balanced-Routing-Table (BART) for very fast IP to CIDR lookups and more.
+- [buffstreams](buffstreams.md) — Streaming protocolbuffer data over TCP made easy.
+- [canopus](canopus.md) — CoAP Client/Server implementation (RFC 7252).
+- [cdns](cdns.md) — Change DNS servers effortlessly via terminal.
+- [chicha-ip-proxy](chicha-ip-proxy.md) — Zero-configuration TCP/UDP port proxy with autostart, IP-based access control, and OS-level network stack tuning.
+- [cidranger](cidranger.md) — Fast IP to CIDR lookup for Go.
+- [cloudflared](cloudflared.md) — Cloudflare Tunnel client (formerly Argo Tunnel).
+- [corsproxy](corsproxy.md) — CORS proxy server with SSRF protection, host allow/blocklisting, and optional API key authentication.
+- [dhcp6](dhcp6.md) — Package dhcp6 implements a DHCPv6 server, as described in RFC 3315.
+- [dns](dns.md) — Go library for working with DNS.
+- [dnsmonster](dnsmonster.md) — Passive DNS Capture/Monitoring Framework.
+- [drainwatch](drainwatch.md) — Measures what actually happens to established TCP and UDP connections when a Kubernetes pod terminates.
+- [easytcp](easytcp.md) — A light-weight TCP framework written in Go (Golang), built with message router. EasyTCP helps you build a TCP server easily fast and less painful.
+- [ether](ether.md) — Cross-platform Go package for sending and receiving ethernet frames.
+- [ethernet](ethernet.md) — Package ethernet implements marshaling and unmarshalling of IEEE 802.3 Ethernet II frames and IEEE 802.1Q VLAN tags.
+- [event](event-2.md) — Simple I/O event notification library written in Golang.
+- [expose](expose.md) — Lightweight, open-source secure tunneling tool to expose local servers to the internet.
+- [fasthttp](fasthttp.md) — Package fasthttp is a fast HTTP implementation for Go, up to 10 times faster than net/http.
+- [fibersse](fibersse.md) — Production-grade Server-Sent Events (SSE) for Fiber v3 with event coalescing, priority lanes, topic wildcards, adaptive throttling, and built-in auth.
+- [fortio](fortio.md) — Load testing library and command line tool, advanced echo server and web UI. Allows to specify a set query-per-second load and record latency histograms and…
+- [ftp](ftp.md) — Package ftp implements a FTP client as described in RFC 959.
+- [ftpserverlib](ftpserverlib.md) — Fully featured FTP server library.
+- [fullproxy](fullproxy.md) — A fully featured scriptable and daemon configurable proxy and pivoting toolkit with SOCKS5, HTTP, raw ports and reverse proxy protocols.
+- [fwdctl](fwdctl.md) — A simple and intuitive CLI to manage IPTables forwards in your Linux server.
+- [gaio](gaio.md) — High performance async-io networking for Golang in proactor mode.
+- [gev](gev.md) — gev is a lightweight, fast non-blocking TCP network library based on Reactor mode.
+- [gldap](gldap.md) — gldap provides an ldap server implementation and you provide handlers for its ldap operations.
+- [gmqtt](gmqtt.md) — Gmqtt is a flexible, high-performance MQTT broker library that fully implements the MQTT protocol V3.1.1.
+- [gnet](gnet.md) — gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
+- [gnet](gnet-2.md) — gnet is a high-performance networking framework,especially for game servers.
+- [gNxI](gnxi.md) — A collection of tools for Network Management that use the gNMI and gNOI protocols.
+- [go-getter](go-getter.md) — Go library for downloading files or directories from various sources using a URL.
+- [go-multiproxy](go-multiproxy.md) — Library for making HTTP requests through a pool of proxies offering fault tolerance, load balancing, automatic retries, cookie management, and more, via…
+- [go-pcaplite](go-pcaplite.md) — Lightweight live packet capture library with HTTPS SNI extraction.
+- [go-powerdns](go-powerdns.md) — PowerDNS API bindings for Golang.
+- [go-sse](go-sse.md) — Go client and server implementation of HTML server-sent events.
+- [go-stun](go-stun.md) — Go implementation of the STUN client (RFC 3489 and RFC 5389).
+- [gobgp](gobgp.md) — BGP implemented in the Go Programming Language.
+- [gopacket](gopacket.md) — Go library for packet processing with libpcap bindings.
+- [gopcap](gopcap.md) — Go wrapper for libpcap.
+- [GoProxy](goproxy.md) — A library to create a customized HTTP/HTTPS proxy server using Go.
+- [goshark](goshark.md) — Package goshark use tshark to decode IP packet and create data struct to analyse packet.
+- [gosnmp](gosnmp.md) — Native Go library for performing SNMP actions.
+- [gotcp](gotcp.md) — Go package for quickly writing tcp applications.
+- [grab](grab.md) — Go package for managing file downloads.
+- [graval](graval.md) — Experimental FTP server framework.
+- [gws](gws.md) — High-Performance WebSocket Server & Client With AsyncIO Supporting .
+- [HTTPLab](httplab.md) — HTTPLabs let you inspect HTTP requests and forge responses.
+- [httpproxy](httpproxy.md) — HTTP proxy handler and dialer.
+- [iplib](iplib.md) — Library for working with IP addresses (net.IP, net.IPNet), inspired by python ipaddress and ruby ipaddr
+- [jazigo](jazigo.md) — Jazigo is a tool written in Go for retrieving configuration for multiple network devices.
+- [kcp-go](kcp-go.md) — KCP - Fast and Reliable ARQ Protocol.
+- [lhttp](lhttp.md) — Powerful websocket framework, build your IM server more easily.
+- [linkio](linkio.md) — Network link speed simulation for Reader/Writer interfaces.
+- [llb](llb.md) — It's a very simple but quick backend for proxy servers. Can be useful for fast redirection to predefined domain with zero memory allocation and fast response.
+- [macwifi](macwifi.md) — Wi-Fi scanning and Keychain password retrieval for macOS 13+.
+- [mdns](mdns.md) — Simple mDNS (Multicast DNS) client/server library in Golang.
+- [mqttPaho](mqttpaho.md) — The Paho Go Client provides an MQTT client library for connection to MQTT brokers via TCP, TLS or WebSockets.
+- [natiu-mqtt](natiu-mqtt.md) — A dead-simple, non-allocating, low level implementation of MQTT well suited for embedded systems.
+- [nbio](nbio.md) — Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost…
+- [net](net.md) — This repository holds supplementary Go networking libraries.
+- [netchan](netchan.md) — Network Channels (netchan) for Golang: Secure, cluster-ready, supports nested channels & any data type. Inspired by Rob Pike.
+- [nethawk](nethawk.md) — Terminal UI for real-time network traffic capture, analysis, and attack detection with JSON output mode.
+- [netpoll](netpoll.md) — A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
+- [NFF-Go](nff-go.md) — Framework for rapid development of performant network functions for cloud and bare-metal (former YANFF).
+- [nodepass](nodepass.md) — A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TCP/QUIC/WebSocket or…
+- [peerdiscovery](peerdiscovery.md) — Pure Go library for cross-platform local peer discovery using UDP multicast.
+- [portproxy](portproxy.md) — Simple TCP proxy which adds CORS support to API's which don't support it.
+- [proxq](proxq.md) — Asynchronous reverse proxy that queues each request in Redis and returns a job ID to poll for the response, with path-prefix routing, retries, and caching.
+- [psql-wire](psql-wire.md) — PostgreSQL server wire protocol. Build your own server and start serving connections..
+- [publicip](publicip.md) — Package publicip returns your public facing IPv4 address (internet egress).
+- [quic-go](quic-go.md) — An implementation of the QUIC protocol in pure Go.
+- [roamr](roamr.md) — CLI that scores nearby saved WiFi networks and tells you which to use, and why.
+- [sdns](sdns.md) — A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.
+- [sftp](sftp.md) — Package sftp implements the SSH File Transfer Protocol as described in <https://filezilla-project.org/specs/draft-ietf-secsh-filexfer-02.txt>.
+- [ssh](ssh.md) — Higher-level API for building SSH servers (wraps crypto/ssh).
+- [sslb](sslb.md) — It's a Super Simples Load Balancer, just a little project to achieve some kind of performance.
+- [stun](stun.md) — Go implementation of RFC 5389 STUN protocol.
+- [tcpack](tcpack.md) — tcpack is an application protocol based on TCP to Pack and Unpack bytes stream in go program.
+- [telepath](telepath.md) — telepath is a powerful CLI tool for secure port forwarding with support for multiple jump hosts and flexible authentication.
+- [tspool](tspool.md) — A TCP Library use worker pool to improve performance and protect your server.
+- [tun2socks](tun2socks.md) — A pure go implementation of tun2socks powered by gVisor TCP/IP stack.
+- [utp](utp.md) — Go uTP micro transport protocol implementation.
+- [vssh](vssh.md) — Go library for building network and server automation over SSH protocol.
+- [water](water.md) — Simple TUN/TAP library.
+- [webrtc](webrtc.md) — A pure Go implementation of the WebRTC API.
+- [winrm](winrm.md) — Go WinRM client to remotely execute commands on Windows machines.
+- [ws-reconnect](ws-reconnect.md) — Resilient WebSocket client with automatic reconnection, exponential backoff, and heartbeat management.
+- [xtcp](xtcp.md) — TCP Server Framework with simultaneous full duplex communication, graceful shutdown, and custom protocol.

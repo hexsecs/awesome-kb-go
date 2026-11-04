@@ -1,0 +1,8 @@
+{
+  "id": "awesome-kb-go",
+  "title": "Go (Awesome KB)",
+  "source": "avelino/awesome-go",
+  "source_commit": "5e201a5e2340964477bbf5dc1babf83577606f92",
+  "license": "MIT",
+  "parser": "go"
+}

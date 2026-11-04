@@ -1,0 +1,51 @@
+---
+type: index
+title: "Web Frameworks"
+---
+
+# Web Frameworks
+
+- [aichteeteapee](aichteeteapee.md) — Batteries-included HTTP server library with a router, middleware stack, WebSocket hubs, file uploads, and OpenAPI validation.
+- [Andurel](andurel.md) — Rails-inspired full-stack Go web framework with scaffolding, database tooling, and server-rendered or Inertia frontends.
+- [Atreugo](atreugo.md) — High performance and extensible micro web framework with zero memory allocations in hot paths.
+- [Barf](barf.md) — Basically, A Remarkable Framework for building JSON-based web APIs. It is entirely unobtrusive and re-invents no wheel. It is crafted such that getting…
+- [Beego](beego.md) — beego is an open-source, high-performance web framework for the Go programming language.
+- [Confetti Framework](confetti-framework.md) — Confetti is a Go web application framework with an expressive, elegant syntax. Confetti combines the elegance of Laravel and the simplicity of Go.
+- [Don](don.md) — A highly performant and simple to use API framework.
+- [doors](doors.md) — Server-driven framework for building stateful, reactive web applications entirely in Go.
+- [Echo](echo.md) — High performance, minimalist Go web framework.
+- [Fastschema](fastschema.md) — A flexible Go web framework and Headless CMS.
+- [Fiber](fiber.md) — An Express.js inspired web framework build on Fasthttp.
+- [Flamingo](flamingo.md) — Framework for pluggable web projects. Including a concept for modules and offering features for DI, Configareas, i18n, template engines, graphql…
+- [Flamingo Commerce](flamingo-commerce.md) — Providing e-commerce features using clean architecture like DDD and ports and adapters, that you can use to build flexible e-commerce applications.
+- [Fuego](fuego-2.md) — The framework for busy Go developers! Web framework generating OpenAPI 3 spec from source code.
+- [Gin](gin.md) — Gin is a web framework written in Go! It features a martini-like API with much better performance, up to 40 times faster. If you need performance and good…
+- [Ginrpc](ginrpc.md) — Gin parameter automatic binding tool,gin rpc tools.
+- [go-api-boot](go-api-boot.md) — A gRpc-first micro-service framework. Features include ODM support for Mongo, cloud resource support (AWS/Azure/Google), and a fluent dependency injection…
+- [Goa](goa.md) — Goa provides a holistic approach for developing remote APIs and microservices in Go.
+- [GoFr](gofr.md) — Gofr is an opinionated microservice development framework.
+- [GoFrame](goframe.md) — GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
+- [Gone](gone.md) — A lightweight dependency injection and web framework inspired by Spring.
+- [goravel](goravel.md) — A Laravel-inspired web framework with ORM, authentication, queue, task scheduling, and more built-in features.
+- [Goshtoso](goshtoso.md) — Server-rendered UI components for Go applications, built with templ, Tailwind CSS, HTMX, and Alpine.js.
+- [Goyave](goyave.md) — Feature-complete REST API framework aimed at clean code and fast development, with powerful built-in functionalities.
+- [Hertz](hertz.md) — A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
+- [hiboot](hiboot.md) — hiboot is a high performance web application framework with auto configuration and dependency injection support.
+- [httpsuite](httpsuite.md) — HTTP request parsing and RFC 9457 problem responses for Go, with a stdlib-only core and optional validation.
+- [Huma](huma.md) — Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
+- [iWF](iwf.md) — iWF is an all-in-one platform for developing long-running business processes. It offers a convenient abstraction for utilizing databases, ElasticSearch…
+- [Lit](lit.md) — Highly performant declarative web framework for Golang, aiming for simplicity and quality of life.
+- [Microservice](microservice.md) — The framework for the creation of microservices, written in Golang.
+- [NotNet](notnet.md) — A lightweight Go framework for building fast, ergonomic RESTful APIs with middleware and flexible routing.
+- [patron](patron.md) — Patron is a microservice framework following best cloud practices with a focus on productivity.
+- [Pnutmux](pnutmux.md) — Pnutmux is a powerful Go web framework that uses regex for matching and handling HTTP requests. It offers features such as CORS handling, structured…
+- [Revel](revel.md) — High-productivity web framework for the Go language.
+- [rk-boot](rk-boot.md) — A bootstrapper library for building enterprise go microservice with Gin and gRPC quickly and easily.
+- [Ronykit](ronykit.md) — Web framework with pluggable architecture and very performant.
+- [rux](rux.md) — Simple and fast web framework for build golang HTTP applications.
+- [shadcn-templ](shadcn-templ.md) — Unofficial shadcn/ui port for Go and templ: accessible UI components with CLI and registry.
+- [togo](togo.md) — Full-stack framework that ships your Go backend and React frontend as a single binary; a Laravel-artisan-grade CLI.
+- [uAdmin](uadmin.md) — Fully featured web framework for Golang, inspired by Django.
+- [WebGo](webgo.md) — A micro-framework to build web apps with handler chaining, middleware, and context injection. With standard library-compliant HTTP handlers (i.e.…
+- [Xun](xun.md) — Web framework built on Go's built-in html/template and net/http package’s router. It is designed to be lightweight, fast, and easy to use while providing a…
+- [Yokai](yokai.md) — Simple, modular, and observable Go framework for backend applications.

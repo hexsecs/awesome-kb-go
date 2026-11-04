@@ -1,0 +1,67 @@
+---
+type: index
+title: "Miscellaneous / Uncategorized"
+---
+
+# Miscellaneous / Uncategorized
+
+- [anagent](anagent.md) — Minimalistic, pluggable Golang evloop/timer handler with dependency-injection.
+- [antch](antch.md) — A fast, powerful and extensible web crawling & scraping framework.
+- [archives](archives.md) — a cross-platform, multi-format Go library for working with archives and compression formats with a unified API and as virtual file systems compatible with…
+- [autoflags](autoflags.md) — Go package to automatically define command line flags from struct fields.
+- [avgRating](avgrating.md) — Calculate average score and rating based on Wilson Score Equation.
+- [banner](banner.md) — Add beautiful banners into your Go applications.
+- [base64Captcha](base64captcha.md) — Base64captch supports digit, number, alphabet, arithmetic, audio and digit-alphabet captcha.
+- [basexx](basexx.md) — Convert to, from, and between digit strings in various number bases.
+- [battery](battery.md) — Cross-platform, normalized battery information library.
+- [bitio](bitio.md) — Highly optimized bit-level Reader and Writer for Go.
+- [browscap_go](browscap-go.md) — GoLang Library for Browser Capabilities Project.
+- [captcha](captcha.md) — Package captcha provides an easy to use, unopinionated API for captcha generation.
+- [common](common.md) — A library for server framework.
+- [conv](conv.md) — Package conv provides fast and intuitive conversions across Go types.
+- [datacounter](datacounter.md) — Go counters for readers/writer/http.ResponseWriter.
+- [fake-useragent](fake-useragent.md) — Up-to-date simple useragent faker with real world database in Golang
+- [faker](faker.md) — Random fake data and struct generator for Go.
+- [ffmt](ffmt.md) — Beautify data display for Humans.
+- [gatus](gatus.md) — Automated service health dashboard.
+- [go-commandbus](go-commandbus.md) — A slight and pluggable command-bus for Go.
+- [go-commons-pool](go-commons-pool.md) — Generic object pool for Golang.
+- [go-openapi](go-openapi.md) — Collection of packages to parse and utilize open-api schemas.
+- [go-resiliency](go-resiliency.md) — Resiliency patterns for golang.
+- [go-unarr](go-unarr.md) — Decompression library for RAR, TAR, ZIP and 7z archives.
+- [gofakeit](gofakeit.md) — Random data generator written in go.
+- [goffi](goffi.md) — Pure Go FFI with libffi-style typed call interface and structured error handling for calling C libraries without CGO.
+- [gommit](gommit.md) — Analyze git commit messages to ensure they follow defined patterns.
+- [gopsutil](gopsutil.md) — Cross-platform library for retrieving process and system utilization(CPU, Memory, Disks, etc).
+- [gosh](gosh.md) — Provide Go Statistics Handler, Struct, Measure Method.
+- [gosms](gosms.md) — Your own local SMS gateway in Go that can be used to send SMS.
+- [gotoprom](gotoprom.md) — Type-safe metrics builder wrapper library for the official Prometheus client.
+- [gountries](gountries.md) — Package that exposes country and subdivision data.
+- [gtree](gtree.md) — Provide CLI, Package and Web for tree output and directories creation from Markdown or programmatically.
+- [health](health-2.md) — A simple and flexible health check library for Go.
+- [health](health-3.md) — Easy to use, extensible health check library.
+- [healthcheck](healthcheck.md) — An opinionated and concurrent health-check HTTP handler for RESTful services.
+- [hostutils](hostutils.md) — A golang library for packing and unpacking FQDNs list.
+- [indigo](indigo.md) — Distributed unique ID generator of using Sonyflake and encoded by Base58.
+- [lk](lk.md) — A simple licensing library for golang.
+- [llvm](llvm.md) — Library for interacting with LLVM IR in pure Go.
+- [metrics](metrics.md) — Library for metrics instrumentation and Prometheus exposition.
+- [morse](morse.md) — Library to convert to and from morse code.
+- [numa](numa.md) — NUMA is a utility library, which is written in go. It help us to write some NUMA-AWARED code.
+- [pdfgen](pdfgen.md) — HTTP service to generate PDF from Json requests.
+- [persian](persian.md) — Some utilities for Persian language in go.
+- [purego](purego.md) — A library for calling C functions from Go without Cgo.
+- [sandid](sandid.md) — Every grain of sand on earth has its own ID.
+- [shellwords](shellwords.md) — A Golang library to manipulate strings according to the word parsing rules of the UNIX Bourne shell.
+- [shortid](shortid.md) — Distributed generation of super short, unique, non-sequential, URL friendly IDs.
+- [shoutrrr](shoutrrr.md) — Notification library providing easy access to various messaging services like slack, mattermost, gotify and smtp among others.
+- [sitemap-format](sitemap-format.md) — A simple sitemap generator, with a little syntactic sugar.
+- [stateless](stateless.md) — A fluent library for creating state machines.
+- [stats](stats.md) — Monitors Go MemStats + System stats such as Memory, Swap and CPU and sends via UDP anywhere you want for logging etc...
+- [turtle](turtle.md) — Emojis for Go.
+- [url-shortener](url-shortener.md) — A modern, powerful, and robust URL shortener microservice with mysql support.
+- [VarHandler](varhandler.md) — Generate boilerplate http input and output handling.
+- [varint](varint.md) — A faster varying length integer encoder/decoder than the one provided in the standard library.
+- [xdg](xdg-2.md) — FreeDesktop.org (xdg) Specs implemented in Go.
+- [xkg](xkg.md) — X Keyboard Grabber.
+- [xz](xz.md) — Pure golang package for reading and writing xz-compressed files.

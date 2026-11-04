@@ -1,0 +1,75 @@
+---
+type: index
+title: "Distributed Systems"
+---
+
+# Distributed Systems
+
+- [arpc](arpc.md) — More effective network communication, support two-way-calling, notify, broadcast.
+- [bedrock](bedrock.md) — Provides a minimal, modular and composable foundation for quickly developing services and more use case specific frameworks in Go.
+- [capillaries](capillaries.md) — distributed batch data processing framework.
+- [circuit](circuit.md) — Circuit breaker with gradual recovery via probabilistic throttling.
+- [cmd-stream-go](cmd-stream-go.md) — High-performance distributed command pattern library for Go.
+- [committer](committer.md) — A distributed transactions management system (2PC/3PC implementation).
+- [consistent](consistent.md) — Consistent hashing with bounded loads.
+- [consistenthash](consistenthash.md) — Consistent hashing with configurable replicas.
+- [dht](dht.md) — BitTorrent Kademlia DHT implementation.
+- [digota](digota.md) — grpc ecommerce microservice.
+- [dot](dot-2.md) — distributed sync using operational transformation/OT.
+- [doublejump](doublejump.md) — A revamped Google's jump consistent hash.
+- [dragonboat](dragonboat.md) — A feature complete and high performance multi-group Raft library in Go.
+- [Dragonfly](dragonfly.md) — Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud…
+- [drmaa](drmaa.md) — Job submission library for cluster schedulers based on the DRMAA standard.
+- [dynamolock](dynamolock.md) — DynamoDB-backed distributed locking implementation.
+- [dynatomic](dynatomic.md) — A library for using DynamoDB as an atomic counter.
+- [emitter-io](emitter-io.md) — High performance, distributed, secure and low latency publish-subscribe platform built with MQTT, Websockets and love.
+- [evans](evans.md) — Evans: more expressive universal gRPC client.
+- [failured](failured.md) — adaptive accrual failure detector for distributed systems.
+- [flowgraph](flowgraph.md) — flow-based programming package.
+- [gleam](gleam.md) — Fast and scalable distributed map/reduce system written in pure Go and Luajit, combining Go's high concurrency with Luajit's high performance, runs…
+- [glow](glow.md) — Easy-to-Use scalable distributed big data processing, Map-Reduce, DAG execution, all in pure Go.
+- [gmsec](gmsec.md) — A Go distributed systems development framework.
+- [go-doudou](go-doudou.md) — A gossip protocol and OpenAPI 3.0 spec based decentralized microservice framework. Built-in go-doudou cli focusing on low-code and rapid dev can power up…
+- [go-eagle](go-eagle.md) — A Go framework for the API or Microservice with handy scaffolding tools.
+- [go-jump](go-jump.md) — Port of Google's "Jump" Consistent Hash function.
+- [go-kit](go-kit.md) — Microservice toolkit with support for service discovery, load balancing, pluggable transports, request tracking, etc.
+- [go-micro](go-micro.md) — A distributed systems development framework.
+- [go-mysql-lock](go-mysql-lock.md) — MySQL based distributed lock.
+- [go-pdu](go-pdu.md) — A decentralized identity-based social network.
+- [go-sundheit](go-sundheit.md) — A library built to provide support for defining async service health checks for golang services.
+- [go-zero](go-zero.md) — A web and rpc framework. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [gorpc](gorpc.md) — Simple, fast and scalable RPC library for high load.
+- [grpc-go](grpc-go.md) — The Go language implementation of gRPC. HTTP/2 based RPC.
+- [health](health.md) — Health checker for Go services with Kubernetes probe support.
+- [hprose](hprose.md) — Very newbility RPC Library, support 25+ languages now.
+- [jsonrpc](jsonrpc.md) — The jsonrpc package helps implement of JSON-RPC 2.0.
+- [jsonrpc](jsonrpc-2.md) — JSON-RPC 2.0 HTTP client implementation.
+- [K8gb](k8gb.md) — A cloud native Kubernetes Global Balancer.
+- [Kitex](kitex.md) — A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. If the performance and extensibility are the…
+- [Kratos](kratos.md) — A modular-designed and easy-to-use microservices framework in Go.
+- [liftbridge](liftbridge.md) — Lightweight, fault-tolerant message streams for NATS.
+- [lock](lock.md) — Distributed lock family with one Go interface and five backends (filelock, flock, Redis, Postgres, etcd) — fencing tokens, semaphore mode, and observability…
+- [lura](lura.md) — Ultra performant API Gateway framework with middlewares.
+- [mochi mqtt](mochi-mqtt.md) — Fully spec compliant, embeddable high-performance MQTT v5/v3 broker for IoT, smarthome, and pubsub.
+- [NATS](nats.md) — NATS is a simple, secure, and performant communications system for digital systems, services, and devices.
+- [opentelemetry-go-auto-instrumentation](opentelemetry-go-auto-instrumentation.md) — OpenTelemetry Compile-Time Instrumentation for Golang.
+- [oras](oras.md) — CLI and library for OCI Artifacts in container registries.
+- [outbox](outbox.md) — Lightweight library for the transactional outbox pattern in Go, not tied to any specific relational database or broker.
+- [outboxer](outboxer.md) — Outboxer is a go library that implements the outbox pattern.
+- [pglock](pglock.md) — PostgreSQL-backed distributed locking implementation.
+- [pjrpc](pjrpc.md) — Golang JSON-RPC Server-Client with Protobuf spec.
+- [raft](raft.md) — Golang implementation of the Raft consensus protocol, by HashiCorp.
+- [raft](raft-2.md) — Go implementation of the Raft consensus protocol, by CoreOS.
+- [rain](rain.md) — BitTorrent client and library.
+- [redis-lock](redis-lock.md) — Simplified distributed locking implementation using Redis.
+- [resgate](resgate.md) — Realtime API Gateway for building REST, real time, and RPC APIs, where all clients are synchronized seamlessly.
+- [rpcplatform](rpcplatform.md) — Framework for microservices with service discovery, load balancing, and related features.
+- [rpcx](rpcx.md) — Distributed pluggable RPC service framework like alibaba Dubbo.
+- [Semaphore](semaphore.md) — A straightforward (micro) service orchestrator.
+- [servicepack](servicepack.md) — Framework for running multiple services concurrently in a single binary, locally or distributed across machines.
+- [sleuth](sleuth.md) — Library for master-less p2p auto-discovery and RPC between HTTP services (using ZeroMQ).
+- [sponge](sponge.md) — A distributed development framework that integrates automatic code generation, gin and grpc frameworks, base development frameworks.
+- [Tarmac](tarmac.md) — Framework for writing functions, microservices, or monoliths with WebAssembly
+- [Temporal](temporal.md) — Durable execution system for making code fault-tolerant and simple.
+- [torrent](torrent.md) — BitTorrent client package.
+- [trpc-go](trpc-go.md) — The Go language implementation of tRPC, which is a pluggable, high-performance RPC framework.

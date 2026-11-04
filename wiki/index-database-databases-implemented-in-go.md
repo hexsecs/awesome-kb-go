@@ -1,0 +1,59 @@
+---
+type: index
+title: "Database / Databases Implemented in Go"
+---
+
+# Database / Databases Implemented in Go
+
+- [badger](badger.md) — Fast key-value store in Go.
+- [bbolt](bbolt.md) — An embedded key/value database for Go.
+- [Bitcask](bitcask.md) — Bitcask is an embeddable, persistent and fast key-value (KV) database written in pure Go with predictable read/write performance, low latency and high…
+- [buntdb](buntdb.md) — Fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support.
+- [clover](clover.md) — A lightweight document-oriented NoSQL database written in pure Golang.
+- [cockroach](cockroach.md) — Scalable, Geo-Replicated, Transactional Datastore.
+- [Coffer](coffer.md) — Simple ACID key-value database that supports transactions.
+- [column](column.md) — High-performance, columnar, embeddable in-memory store with bitmap indexing and transactions.
+- [CovenantSQL](covenantsql.md) — CovenantSQL is a SQL database on blockchain.
+- [Databunker](databunker.md) — Personally identifiable information (PII) storage service built to comply with GDPR and CCPA.
+- [dgraph](dgraph.md) — Scalable, Distributed, Low Latency, High Throughput Graph Database.
+- [DiceDB](dicedb.md) — An open-source, fast, reactive, in-memory database optimized for modern hardware. Higher throughput and lower median latencies, making it ideal for modern…
+- [diskv](diskv.md) — Home-grown disk-backed key-value store.
+- [dolt](dolt.md) — Dolt – It's Git for Data.
+- [eliasdb](eliasdb.md) — Dependency-free, transactional graph database with REST API, phrase search and SQL-like query language.
+- [gedb](gedb.md) — MongoDB-like embedded database, written in pure-go. Supports indexing and complex queries.
+- [go-sqlite](go-sqlite.md) — – A Pure Golang implemented SQLite driver without CGO.
+- [godis](godis.md) — A Golang implemented high-performance Redis server and cluster.
+- [goleveldb](goleveldb.md) — Implementation of the LevelDB key/value database in Go.
+- [hare](hare.md) — A simple database management system that stores each table as a text file of line-delimited JSON.
+- [immudb](immudb.md) — immudb is a lightweight, high-speed immutable database for systems and applications written in Go.
+- [influxdb](influxdb.md) — Scalable datastore for metrics, events, and real-time analytics.
+- [ledisdb](ledisdb.md) — Ledisdb is a high performance NoSQL like Redis based on LevelDB.
+- [levigo](levigo.md) — Levigo is a Go wrapper for LevelDB.
+- [libradb](libradb.md) — LibraDB is a simple database with less than 1000 lines of code for learning.
+- [LinDB](lindb.md) — LinDB is a scalable, high performance, high availability distributed time series database.
+- [lotusdb](lotusdb.md) — Fast k/v database compatible with lsm and b+tree.
+- [lynxdb](lynxdb.md) — Lightweight columnar log analytics database with a pipe-style query language inspired by SPL.
+- [MemHop](memhop.md) — Embedded cognitive memory database for AI agents. Six-layer architecture (L0-L5), Dream consolidation pipeline, three-channel RRF retrieval (BM25 + f16…
+- [Milvus](milvus.md) — Milvus is a vector database for embedding management, analytics and search.
+- [minisql](minisql.md) — Embedded single file SQL database.
+- [moss](moss.md) — Moss is a simple LSM key-value storage engine written in 100% Go.
+- [nanotdb](nanotdb.md) — A lightweight, zero-dependency, append-only Time-Series Database and Dashboard optimized for low-power hardware.
+- [NoKV](nokv.md) — Native metadata service for distributed filesystems, object storage, and AI dataset workloads.
+- [NornicDB](nornicdb.md) — High performance graph + vector database (Neo4j and qDrant compatible), focused on low latency graph-rag retreival for AI systems.
+- [nutsdb](nutsdb.md) — Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures…
+- [objectbox-go](objectbox-go.md) — High-performance embedded Object Database (NoSQL) with Go API.
+- [pebble](pebble.md) — RocksDB/LevelDB inspired key-value database in Go.
+- [piladb](piladb.md) — Lightweight RESTful database engine based on stack data structures.
+- [pogreb](pogreb.md) — Embedded key-value store for read-heavy workloads.
+- [prometheus](prometheus.md) — Monitoring system and time series database.
+- [pudge](pudge.md) — Fast and simple key/value store written using Go's standard library.
+- [redka](redka.md) — Redis re-implemented with SQLite.
+- [rosedb](rosedb.md) — An embedded k-v database based on LSM+WAL, supports string, list, hash, set, zset.
+- [rotom](rotom.md) — A tiny Redis server built with Golang, compatible with RESP protocols.
+- [rqlite](rqlite.md) — The lightweight, distributed, relational database built on SQLite.
+- [tempdb](tempdb.md) — Key-value store for temporary items.
+- [tidb](tidb.md) — TiDB is a distributed SQL database. Inspired by the design of Google F1.
+- [tiedot](tiedot.md) — Your NoSQL database powered by Golang.
+- [unitdb](unitdb.md) — Fast timeseries database for IoT, realtime messaging applications. Access unitdb with pubsub over tcp or websocket using github.com/unit-io/unitd application.
+- [Vasto](vasto.md) — A distributed high-performance key-value store. On Disk. Eventual consistent. HA. Able to grow or shrink without service interruption.
+- [VictoriaMetrics](victoriametrics.md) — fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL.

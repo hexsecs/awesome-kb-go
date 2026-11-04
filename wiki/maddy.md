@@ -1,0 +1,22 @@
+---
+uid: "01a1a884-7ca0-7626-b467-dca21b528392"
+title: "Maddy"
+summary: "All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server"
+type: "entity"
+category: "Email"
+url: "https://github.com/foxcpp/maddy"
+status: "unknown"
+created: "2026-11-04"
+updated: "2026-11-04"
+depth: "stub"
+source_list: "avelino/awesome-go"
+source_commit: "5e201a5e2340964477bbf5dc1babf83577606f92"
+list_summary: "All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server"
+sources: [{"url": "https://github.com/avelino/awesome-go/blob/5e201a5e2340964477bbf5dc1babf83577606f92/README.md", "retrieved": "2026-11-04"}]
+---
+
+All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server
+
+- **Resource:** https://github.com/foxcpp/maddy
+- **Source:** [avelino/awesome-go](https://github.com/avelino/awesome-go/blob/5e201a5e2340964477bbf5dc1babf83577606f92/README.md#L1182)
+- **Depth:** Generated stub; no independent resource verification.
